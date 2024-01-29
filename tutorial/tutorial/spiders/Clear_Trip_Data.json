@@ -1,0 +1,27 @@
+[
+  {
+    "Hotel_Name": null,
+    "CheckIn": "01/22/2024",
+    "CheckOut": "01/23/2024"
+  },
+  {
+    "Hotel_Name": null,
+    "CheckIn": "01/21/2024",
+    "CheckOut": "01/22/2024"
+  },
+  {
+    "Hotel_Name": null,
+    "CheckIn": "01/20/2024",
+    "CheckOut": "01/21/2024"
+  },
+  {
+    "Hotel_Name": null,
+    "CheckIn": "01/23/2024",
+    "CheckOut": "01/24/2024"
+  },
+  {
+    "Hotel_Name": null,
+    "CheckIn": "01/19/2024",
+    "CheckOut": "01/20/2024"
+  }
+]

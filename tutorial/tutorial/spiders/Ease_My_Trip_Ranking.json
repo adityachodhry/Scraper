@@ -1,0 +1,686 @@
+{
+    "timestamp": "2024-01-05 11:18:02.140988+00:00",
+    "otaId": 5,
+    "ranking": [
+        {
+            "rank": 1,
+            "name": "Regenta Place Bhopal By Royal Orchid Hotels Limited",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 3150
+        },
+        {
+            "rank": 2,
+            "name": "Playotel Resort Bhopal",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 4556
+        },
+        {
+            "rank": 3,
+            "name": "Hotel Shree Vatika",
+            "starCategory": 3,
+            "userRating": 3.5,
+            "numberOfRatings": 68,
+            "discountedPrice": 2992
+        },
+        {
+            "rank": 4,
+            "name": "Hotel Nisha Nest",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 2300
+        },
+        {
+            "rank": 5,
+            "name": "Hotel Rajhans Regent",
+            "starCategory": 3,
+            "userRating": 3.0,
+            "numberOfRatings": 62,
+            "discountedPrice": 4799
+        },
+        {
+            "rank": 6,
+            "name": "Treebo Trend The Shagun",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 110,
+            "discountedPrice": 4100
+        },
+        {
+            "rank": 7,
+            "name": "Hotel Western",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 8,
+            "discountedPrice": 1884
+        },
+        {
+            "rank": 8,
+            "name": "Hotel Smriti Star",
+            "starCategory": 2,
+            "userRating": 3.5,
+            "numberOfRatings": 51,
+            "discountedPrice": 1793
+        },
+        {
+            "rank": 9,
+            "name": "Hotel Rajhans",
+            "starCategory": 3,
+            "userRating": 3.0,
+            "numberOfRatings": 5,
+            "discountedPrice": 1819
+        },
+        {
+            "rank": 10,
+            "name": "Hotel Arch Manor Deluxe",
+            "starCategory": 3,
+            "userRating": 3.0,
+            "numberOfRatings": 11,
+            "discountedPrice": 3061
+        },
+        {
+            "rank": 11,
+            "name": "Hotel Pleasure Inn",
+            "starCategory": 3,
+            "userRating": 4.5,
+            "numberOfRatings": 12,
+            "discountedPrice": 1447
+        },
+        {
+            "rank": 12,
+            "name": "Hotel Jaishree Palace",
+            "starCategory": 3,
+            "userRating": 3.0,
+            "numberOfRatings": 13,
+            "discountedPrice": 1959
+        },
+        {
+            "rank": 13,
+            "name": "Jains Hotel Rajhans",
+            "starCategory": 3,
+            "userRating": 3.5,
+            "numberOfRatings": 43,
+            "discountedPrice": 3200
+        },
+        {
+            "rank": 14,
+            "name": "Hotel Sudarshan Palace",
+            "starCategory": 3,
+            "userRating": 3.0,
+            "numberOfRatings": 13,
+            "discountedPrice": 3263
+        },
+        {
+            "rank": 15,
+            "name": "Hotel Shalimar Deluxe",
+            "starCategory": 3,
+            "userRating": 3.5,
+            "numberOfRatings": 34,
+            "discountedPrice": 2909
+        },
+        {
+            "rank": 16,
+            "name": "Kwality's Motel Shiraz",
+            "starCategory": 3,
+            "userRating": 3.0,
+            "numberOfRatings": 65,
+            "discountedPrice": 5320
+        },
+        {
+            "rank": 17,
+            "name": "Courtyard By Marriott Bhopal",
+            "starCategory": 5,
+            "userRating": 4.5,
+            "numberOfRatings": 1096,
+            "discountedPrice": 6899
+        },
+        {
+            "rank": 18,
+            "name": "Hotel Nisarga",
+            "starCategory": 3,
+            "userRating": 3.0,
+            "numberOfRatings": 49,
+            "discountedPrice": 3382
+        },
+        {
+            "rank": 19,
+            "name": "The Bastion",
+            "starCategory": 3,
+            "userRating": 3.0,
+            "numberOfRatings": 9,
+            "discountedPrice": 2879
+        },
+        {
+            "rank": 20,
+            "name": "Ivy Suites",
+            "starCategory": 3,
+            "userRating": 4.5,
+            "numberOfRatings": 93,
+            "discountedPrice": 5250
+        },
+        {
+            "rank": 21,
+            "name": "Hotel Adarsh Palace",
+            "starCategory": 1,
+            "userRating": 3.5,
+            "numberOfRatings": 23,
+            "discountedPrice": 988
+        },
+        {
+            "rank": 22,
+            "name": "Noor-Us-Sabah Palace",
+            "starCategory": 5,
+            "userRating": 4.5,
+            "numberOfRatings": 1045,
+            "discountedPrice": 7833
+        },
+        {
+            "rank": 23,
+            "name": "Hotel Shree Palace",
+            "starCategory": 3,
+            "userRating": 3.0,
+            "numberOfRatings": 70,
+            "discountedPrice": 2609
+        },
+        {
+            "rank": 24,
+            "name": "Treebo Trend Royal Sun Palace",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 1620
+        },
+        {
+            "rank": 25,
+            "name": "Tulsi Casa",
+            "starCategory": 3,
+            "userRating": 3.0,
+            "numberOfRatings": 6,
+            "discountedPrice": 3489
+        },
+        {
+            "rank": 26,
+            "name": "Rajhans Regency",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 22,
+            "discountedPrice": 3860
+        },
+        {
+            "rank": 27,
+            "name": "The Celestial Park",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 8,
+            "discountedPrice": 18699
+        },
+        {
+            "rank": 28,
+            "name": "Hotel Ganga Regency",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 1800
+        },
+        {
+            "rank": 29,
+            "name": "Hotel Atishay",
+            "starCategory": 3,
+            "userRating": 4.5,
+            "numberOfRatings": 103,
+            "discountedPrice": 4500
+        },
+        {
+            "rank": 30,
+            "name": "Hotel Pathik Bhopal",
+            "starCategory": 2,
+            "userRating": 4.0,
+            "numberOfRatings": 8,
+            "discountedPrice": 1385
+        },
+        {
+            "rank": 31,
+            "name": "Gaurav Hotel",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 5775
+        },
+        {
+            "rank": 32,
+            "name": "Hotel Galaxy Star",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 2599
+        },
+        {
+            "rank": 33,
+            "name": "Hotel 4 Seasons",
+            "starCategory": 3,
+            "userRating": 1.5,
+            "numberOfRatings": 2,
+            "discountedPrice": 4198
+        },
+        {
+            "rank": 34,
+            "name": "The Ten Suites",
+            "starCategory": 3,
+            "userRating": 4.5,
+            "numberOfRatings": 54,
+            "discountedPrice": 4995
+        },
+        {
+            "rank": 35,
+            "name": "Hotel Dayal Shree Paradise",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 2,
+            "discountedPrice": 2501
+        },
+        {
+            "rank": 36,
+            "name": "Hotel Pleasure Inn",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 2209
+        },
+        {
+            "rank": 37,
+            "name": "Kanha Palm Springs",
+            "starCategory": 3,
+            "userRating": 5.0,
+            "numberOfRatings": 21,
+            "discountedPrice": 2816
+        },
+        {
+            "rank": 38,
+            "name": "Fabhotel The Oasis",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 2564
+        },
+        {
+            "rank": 39,
+            "name": "Fabhotel Shree Regency",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 1465
+        },
+        {
+            "rank": 40,
+            "name": "Fabhotel 4G",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 2473
+        },
+        {
+            "rank": 41,
+            "name": "The Lake Borbon",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 9999
+        },
+        {
+            "rank": 42,
+            "name": "Spot On G Star Hotel",
+            "starCategory": 2,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 496
+        },
+        {
+            "rank": 43,
+            "name": "Fabhotel Prime Oasis Blue",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 3850
+        },
+        {
+            "rank": 44,
+            "name": "Hotel Smriti Grand",
+            "starCategory": 3,
+            "userRating": 3.5,
+            "numberOfRatings": 2,
+            "discountedPrice": 1760
+        },
+        {
+            "rank": 45,
+            "name": "Treebo Trend Hotel Taste Of India",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 4050
+        },
+        {
+            "rank": 46,
+            "name": "Spot On 27004 Hotel Om Sai Plaza",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 675
+        },
+        {
+            "rank": 47,
+            "name": "Hotel The Bentree, Bhopal",
+            "starCategory": 3,
+            "userRating": 3.5,
+            "numberOfRatings": 7,
+            "discountedPrice": 1379
+        },
+        {
+            "rank": 48,
+            "name": "Hotel Brij Palace",
+            "starCategory": 3,
+            "userRating": 2.0,
+            "numberOfRatings": "-",
+            "discountedPrice": 1680
+        },
+        {
+            "rank": 49,
+            "name": "Hotel Royal Star",
+            "starCategory": 3,
+            "userRating": 3.0,
+            "numberOfRatings": 7,
+            "discountedPrice": 1899
+        },
+        {
+            "rank": 50,
+            "name": "Hotel Nirmal Residency",
+            "starCategory": 3,
+            "userRating": 3.5,
+            "numberOfRatings": 3,
+            "discountedPrice": 20000
+        },
+        {
+            "rank": 51,
+            "name": "Hotel Ganpati",
+            "starCategory": 2,
+            "userRating": 3.0,
+            "numberOfRatings": 32,
+            "discountedPrice": 1500
+        },
+        {
+            "rank": 52,
+            "name": "Hotel Royal Palace",
+            "starCategory": 2,
+            "userRating": 4.0,
+            "numberOfRatings": 5,
+            "discountedPrice": 10000
+        },
+        {
+            "rank": 53,
+            "name": "Hotel Tulsi Exotic",
+            "starCategory": 3,
+            "userRating": 3.5,
+            "numberOfRatings": 39,
+            "discountedPrice": 2197
+        },
+        {
+            "rank": 54,
+            "name": "Hotel Sarthak",
+            "starCategory": 3,
+            "userRating": 3.5,
+            "numberOfRatings": 56,
+            "discountedPrice": 3240
+        },
+        {
+            "rank": 55,
+            "name": "Hotel Shiv Villas",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 10,
+            "discountedPrice": 2950
+        },
+        {
+            "rank": 56,
+            "name": "Hotel Signetic Blue",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 19,
+            "discountedPrice": 2116
+        },
+        {
+            "rank": 57,
+            "name": "Lals Plaza Hotel",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 4,
+            "discountedPrice": 1379
+        },
+        {
+            "rank": 58,
+            "name": "Hotel Tirupati Palace",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 2200
+        },
+        {
+            "rank": 59,
+            "name": "Hotel Park View",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 2079
+        },
+        {
+            "rank": 60,
+            "name": "Hotel 18 Keys",
+            "starCategory": 3,
+            "userRating": 5.0,
+            "numberOfRatings": 45,
+            "discountedPrice": 4959
+        },
+        {
+            "rank": 61,
+            "name": "Hotel Gk Palace, Bhopal.",
+            "starCategory": 3,
+            "userRating": 3.0,
+            "numberOfRatings": 15,
+            "discountedPrice": 2815
+        },
+        {
+            "rank": 62,
+            "name": "Hotel Lake Princess",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 6,
+            "discountedPrice": 2599
+        },
+        {
+            "rank": 63,
+            "name": "Hotel Shagun Palace",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 1989
+        },
+        {
+            "rank": 64,
+            "name": "Park Hotel",
+            "starCategory": 3,
+            "userRating": 3.0,
+            "numberOfRatings": 3,
+            "discountedPrice": 1739
+        },
+        {
+            "rank": 65,
+            "name": "Woods Inn Resort",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 14,
+            "discountedPrice": 3999
+        },
+        {
+            "rank": 66,
+            "name": "Hotel Stay Casa",
+            "starCategory": 4,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 5436
+        },
+        {
+            "rank": 67,
+            "name": "Lake View Ashok Hotel",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 5990
+        },
+        {
+            "rank": 68,
+            "name": "Skg Royal Palace",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 2000
+        },
+        {
+            "rank": 69,
+            "name": "Hotel Pleasure Palace",
+            "starCategory": 3,
+            "userRating": 3.0,
+            "numberOfRatings": 1,
+            "discountedPrice": 1570
+        },
+        {
+            "rank": 70,
+            "name": "Hotel Surendra Vilas",
+            "starCategory": 3,
+            "userRating": 3.5,
+            "numberOfRatings": 62,
+            "discountedPrice": 9500
+        },
+        {
+            "rank": 71,
+            "name": "Safal Retreat,Bhopal",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 4550
+        },
+        {
+            "rank": 72,
+            "name": "Hotel Sonali Regency",
+            "starCategory": 3,
+            "userRating": 3.5,
+            "numberOfRatings": 121,
+            "discountedPrice": 1782
+        },
+        {
+            "rank": 73,
+            "name": "Hotel Golden Bliss",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 2129
+        },
+        {
+            "rank": 74,
+            "name": "Grand Ashirwad Beacon",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 76,
+            "discountedPrice": 3373
+        },
+        {
+            "rank": 75,
+            "name": "Stay Inn Nest",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 3349
+        },
+        {
+            "rank": 76,
+            "name": "Fabexpress Maanpreet",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 2196
+        },
+        {
+            "rank": 77,
+            "name": "Treebo Trend Alankar",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 5100
+        },
+        {
+            "rank": 78,
+            "name": "Hotel Aditya Residency",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 3099
+        },
+        {
+            "rank": 79,
+            "name": "Hotel Regal Grand",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 3819
+        },
+        {
+            "rank": 80,
+            "name": "Hotel Smart Room By Shree Vatika",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 2000
+        },
+        {
+            "rank": 81,
+            "name": "Fabhotel The Khushi Regent",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 2749
+        },
+        {
+            "rank": 82,
+            "name": "Hotel Jalsa",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 2909
+        },
+        {
+            "rank": 83,
+            "name": "Hotel Reva Regency",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 2779
+        },
+        {
+            "rank": 84,
+            "name": "Fairyland Clarks Inn Bhopal",
+            "starCategory": "-",
+            "userRating": 4.5,
+            "numberOfRatings": 36,
+            "discountedPrice": 3750
+        },
+        {
+            "rank": 85,
+            "name": "Hotel Shubh Inn",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 20,
+            "discountedPrice": 5099
+        }
+    ]
+}

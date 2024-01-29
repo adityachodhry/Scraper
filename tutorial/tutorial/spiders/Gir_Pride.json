@@ -1,0 +1,1824 @@
+{
+    "hId": 10022,
+    "otaId": 1,
+    "timestamp": "2023-12-27",
+    "otaPId": "201412232059037179",
+    "rates": [
+        {
+            "roomID": 7509218,
+            "checkIn": "2023-12-30",
+            "checkOut": "2023-12-31",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "EP",
+            "price": 4402
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2023-12-30",
+            "checkOut": "2023-12-31",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "CP",
+            "price": 4479
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2023-12-30",
+            "checkOut": "2023-12-31",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "MAP",
+            "price": 4555
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2023-12-30",
+            "checkOut": "2023-12-31",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "AP",
+            "price": 4630
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2023-12-30",
+            "checkOut": "2023-12-31",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "EP",
+            "price": 4835
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2023-12-30",
+            "checkOut": "2023-12-31",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "CP",
+            "price": 4911
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2023-12-30",
+            "checkOut": "2023-12-31",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "MAP",
+            "price": 4987
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2023-12-30",
+            "checkOut": "2023-12-31",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "AP",
+            "price": 5063
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2023-12-27",
+            "checkOut": "2023-12-28",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "EP",
+            "price": 4738
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2023-12-27",
+            "checkOut": "2023-12-28",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "CP",
+            "price": 4813
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2023-12-27",
+            "checkOut": "2023-12-28",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "MAP",
+            "price": 4887
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2023-12-27",
+            "checkOut": "2023-12-28",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "AP",
+            "price": 4962
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2023-12-27",
+            "checkOut": "2023-12-28",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "EP",
+            "price": 5401
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2023-12-27",
+            "checkOut": "2023-12-28",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "CP",
+            "price": 5475
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2023-12-27",
+            "checkOut": "2023-12-28",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "MAP",
+            "price": 5549
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2023-12-27",
+            "checkOut": "2023-12-28",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "AP",
+            "price": 5624
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2023-12-28",
+            "checkOut": "2023-12-29",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "EP",
+            "price": 4099
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2023-12-28",
+            "checkOut": "2023-12-29",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "CP",
+            "price": 4171
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2023-12-28",
+            "checkOut": "2023-12-29",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "MAP",
+            "price": 4242
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2023-12-28",
+            "checkOut": "2023-12-29",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "AP",
+            "price": 4315
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2023-12-28",
+            "checkOut": "2023-12-29",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "EP",
+            "price": 5113
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2023-12-28",
+            "checkOut": "2023-12-29",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "CP",
+            "price": 5185
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2023-12-28",
+            "checkOut": "2023-12-29",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "MAP",
+            "price": 5257
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2023-12-28",
+            "checkOut": "2023-12-29",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "AP",
+            "price": 5329
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2023-12-28",
+            "checkOut": "2023-12-29",
+            "roomName": "Elevated House",
+            "roomPlan": "MAP",
+            "price": 5877
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2023-12-28",
+            "checkOut": "2023-12-29",
+            "roomName": "Elevated House",
+            "roomPlan": "AP",
+            "price": 5943
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2023-12-28",
+            "checkOut": "2023-12-29",
+            "roomName": "Elevated House",
+            "roomPlan": "EP",
+            "price": 6184
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2023-12-28",
+            "checkOut": "2023-12-29",
+            "roomName": "Elevated House",
+            "roomPlan": "CP",
+            "price": 6256
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-03",
+            "checkOut": "2024-01-04",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "EP",
+            "price": 4189
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-03",
+            "checkOut": "2024-01-04",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "CP",
+            "price": 4328
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-03",
+            "checkOut": "2024-01-04",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "MAP",
+            "price": 4468
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-03",
+            "checkOut": "2024-01-04",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "AP",
+            "price": 4538
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2023-12-31",
+            "checkOut": "2024-01-01",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "EP",
+            "price": 4402
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2023-12-31",
+            "checkOut": "2024-01-01",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "CP",
+            "price": 4479
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2023-12-31",
+            "checkOut": "2024-01-01",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "MAP",
+            "price": 4555
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2023-12-31",
+            "checkOut": "2024-01-01",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "AP",
+            "price": 4630
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2023-12-31",
+            "checkOut": "2024-01-01",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "EP",
+            "price": 4835
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2023-12-31",
+            "checkOut": "2024-01-01",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "CP",
+            "price": 4911
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2023-12-31",
+            "checkOut": "2024-01-01",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "MAP",
+            "price": 4987
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2023-12-31",
+            "checkOut": "2024-01-01",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "AP",
+            "price": 5063
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2023-12-31",
+            "checkOut": "2024-01-01",
+            "roomName": "Elevated House",
+            "roomPlan": "EP",
+            "price": 6062
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2023-12-31",
+            "checkOut": "2024-01-01",
+            "roomName": "Elevated House",
+            "roomPlan": "CP",
+            "price": 6133
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2023-12-31",
+            "checkOut": "2024-01-01",
+            "roomName": "Elevated House",
+            "roomPlan": "MAP",
+            "price": 6203
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2023-12-31",
+            "checkOut": "2024-01-01",
+            "roomName": "Elevated House",
+            "roomPlan": "AP",
+            "price": 6273
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-01",
+            "checkOut": "2024-01-02",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "EP",
+            "price": 4189
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-01",
+            "checkOut": "2024-01-02",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "CP",
+            "price": 4328
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-01",
+            "checkOut": "2024-01-02",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "MAP",
+            "price": 4468
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-01",
+            "checkOut": "2024-01-02",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "AP",
+            "price": 4538
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-01",
+            "checkOut": "2024-01-02",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "EP",
+            "price": 4447
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-01",
+            "checkOut": "2024-01-02",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "CP",
+            "price": 4517
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-01",
+            "checkOut": "2024-01-02",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "MAP",
+            "price": 4587
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-01",
+            "checkOut": "2024-01-02",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "AP",
+            "price": 4657
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-01",
+            "checkOut": "2024-01-02",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "EP",
+            "price": 5069
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-01",
+            "checkOut": "2024-01-02",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "CP",
+            "price": 5138
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-01",
+            "checkOut": "2024-01-02",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "MAP",
+            "price": 5237
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-01",
+            "checkOut": "2024-01-02",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "AP",
+            "price": 5306
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-01",
+            "checkOut": "2024-01-02",
+            "roomName": "Elevated House",
+            "roomPlan": "EP",
+            "price": 5677
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-01",
+            "checkOut": "2024-01-02",
+            "roomName": "Elevated House",
+            "roomPlan": "CP",
+            "price": 5742
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-01",
+            "checkOut": "2024-01-02",
+            "roomName": "Elevated House",
+            "roomPlan": "MAP",
+            "price": 5806
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-01",
+            "checkOut": "2024-01-02",
+            "roomName": "Elevated House",
+            "roomPlan": "AP",
+            "price": 6672
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-02",
+            "checkOut": "2024-01-03",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "EP",
+            "price": 4189
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-02",
+            "checkOut": "2024-01-03",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "CP",
+            "price": 4328
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-02",
+            "checkOut": "2024-01-03",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "MAP",
+            "price": 4468
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-02",
+            "checkOut": "2024-01-03",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "AP",
+            "price": 4538
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-02",
+            "checkOut": "2024-01-03",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "EP",
+            "price": 4447
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-02",
+            "checkOut": "2024-01-03",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "CP",
+            "price": 4517
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-02",
+            "checkOut": "2024-01-03",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "MAP",
+            "price": 4587
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-02",
+            "checkOut": "2024-01-03",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "AP",
+            "price": 4657
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-02",
+            "checkOut": "2024-01-03",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "EP",
+            "price": 5069
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-02",
+            "checkOut": "2024-01-03",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "CP",
+            "price": 5138
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-02",
+            "checkOut": "2024-01-03",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "MAP",
+            "price": 5237
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-02",
+            "checkOut": "2024-01-03",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "AP",
+            "price": 5306
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-02",
+            "checkOut": "2024-01-03",
+            "roomName": "Elevated House",
+            "roomPlan": "EP",
+            "price": 5677
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-02",
+            "checkOut": "2024-01-03",
+            "roomName": "Elevated House",
+            "roomPlan": "CP",
+            "price": 5742
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-02",
+            "checkOut": "2024-01-03",
+            "roomName": "Elevated House",
+            "roomPlan": "MAP",
+            "price": 5806
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-02",
+            "checkOut": "2024-01-03",
+            "roomName": "Elevated House",
+            "roomPlan": "AP",
+            "price": 6672
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2023-12-29",
+            "checkOut": "2023-12-30",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "EP",
+            "price": 3770
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2023-12-29",
+            "checkOut": "2023-12-30",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "CP",
+            "price": 3836
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2023-12-29",
+            "checkOut": "2023-12-30",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "MAP",
+            "price": 4242
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2023-12-29",
+            "checkOut": "2023-12-30",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "AP",
+            "price": 4315
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2023-12-29",
+            "checkOut": "2023-12-30",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "EP",
+            "price": 5113
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2023-12-29",
+            "checkOut": "2023-12-30",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "CP",
+            "price": 5185
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2023-12-29",
+            "checkOut": "2023-12-30",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "MAP",
+            "price": 5257
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2023-12-29",
+            "checkOut": "2023-12-30",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "AP",
+            "price": 5329
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-12",
+            "checkOut": "2024-01-13",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "EP",
+            "price": 2807
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-12",
+            "checkOut": "2024-01-13",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "CP",
+            "price": 2959
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-12",
+            "checkOut": "2024-01-13",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "MAP",
+            "price": 3110
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-12",
+            "checkOut": "2024-01-13",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "AP",
+            "price": 3263
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-12",
+            "checkOut": "2024-01-13",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "EP",
+            "price": 3416
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-12",
+            "checkOut": "2024-01-13",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "CP",
+            "price": 3568
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-12",
+            "checkOut": "2024-01-13",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "MAP",
+            "price": 3719
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-12",
+            "checkOut": "2024-01-13",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "AP",
+            "price": 3806
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-12",
+            "checkOut": "2024-01-13",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "EP",
+            "price": 3940
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-12",
+            "checkOut": "2024-01-13",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "CP",
+            "price": 4014
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-12",
+            "checkOut": "2024-01-13",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "MAP",
+            "price": 4089
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-12",
+            "checkOut": "2024-01-13",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "AP",
+            "price": 4241
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-12",
+            "checkOut": "2024-01-13",
+            "roomName": "Elevated House",
+            "roomPlan": "EP",
+            "price": 5009
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-12",
+            "checkOut": "2024-01-13",
+            "roomName": "Elevated House",
+            "roomPlan": "CP",
+            "price": 5162
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-12",
+            "checkOut": "2024-01-13",
+            "roomName": "Elevated House",
+            "roomPlan": "MAP",
+            "price": 5313
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-12",
+            "checkOut": "2024-01-13",
+            "roomName": "Elevated House",
+            "roomPlan": "AP",
+            "price": 5465
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-11",
+            "checkOut": "2024-01-12",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "EP",
+            "price": 2582
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-11",
+            "checkOut": "2024-01-12",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "CP",
+            "price": 2722
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-11",
+            "checkOut": "2024-01-12",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "MAP",
+            "price": 2861
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-11",
+            "checkOut": "2024-01-12",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "AP",
+            "price": 3001
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-11",
+            "checkOut": "2024-01-12",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "EP",
+            "price": 3142
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-11",
+            "checkOut": "2024-01-12",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "CP",
+            "price": 3282
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-11",
+            "checkOut": "2024-01-12",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "MAP",
+            "price": 3421
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-11",
+            "checkOut": "2024-01-12",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "AP",
+            "price": 3501
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-11",
+            "checkOut": "2024-01-12",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "EP",
+            "price": 3624
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-11",
+            "checkOut": "2024-01-12",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "CP",
+            "price": 3692
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-11",
+            "checkOut": "2024-01-12",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "MAP",
+            "price": 3761
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-11",
+            "checkOut": "2024-01-12",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "AP",
+            "price": 3901
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-11",
+            "checkOut": "2024-01-12",
+            "roomName": "Elevated House",
+            "roomPlan": "EP",
+            "price": 4607
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-11",
+            "checkOut": "2024-01-12",
+            "roomName": "Elevated House",
+            "roomPlan": "CP",
+            "price": 4748
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-11",
+            "checkOut": "2024-01-12",
+            "roomName": "Elevated House",
+            "roomPlan": "MAP",
+            "price": 4887
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-11",
+            "checkOut": "2024-01-12",
+            "roomName": "Elevated House",
+            "roomPlan": "AP",
+            "price": 5027
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-05",
+            "checkOut": "2024-01-06",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "EP",
+            "price": 4189
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-05",
+            "checkOut": "2024-01-06",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "CP",
+            "price": 4328
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-05",
+            "checkOut": "2024-01-06",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "MAP",
+            "price": 4468
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-05",
+            "checkOut": "2024-01-06",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "AP",
+            "price": 4538
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-05",
+            "checkOut": "2024-01-06",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "EP",
+            "price": 4447
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-05",
+            "checkOut": "2024-01-06",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "CP",
+            "price": 4517
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-05",
+            "checkOut": "2024-01-06",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "MAP",
+            "price": 4587
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-05",
+            "checkOut": "2024-01-06",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "AP",
+            "price": 4657
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-05",
+            "checkOut": "2024-01-06",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "EP",
+            "price": 5069
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-05",
+            "checkOut": "2024-01-06",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "CP",
+            "price": 5138
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-05",
+            "checkOut": "2024-01-06",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "MAP",
+            "price": 5237
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-05",
+            "checkOut": "2024-01-06",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "AP",
+            "price": 5306
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-05",
+            "checkOut": "2024-01-06",
+            "roomName": "Elevated House",
+            "roomPlan": "EP",
+            "price": 5677
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-05",
+            "checkOut": "2024-01-06",
+            "roomName": "Elevated House",
+            "roomPlan": "CP",
+            "price": 5742
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-05",
+            "checkOut": "2024-01-06",
+            "roomName": "Elevated House",
+            "roomPlan": "MAP",
+            "price": 5806
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-05",
+            "checkOut": "2024-01-06",
+            "roomName": "Elevated House",
+            "roomPlan": "AP",
+            "price": 6672
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-09",
+            "checkOut": "2024-01-10",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "EP",
+            "price": 2582
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-09",
+            "checkOut": "2024-01-10",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "CP",
+            "price": 2722
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-09",
+            "checkOut": "2024-01-10",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "MAP",
+            "price": 2861
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-09",
+            "checkOut": "2024-01-10",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "AP",
+            "price": 3001
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-09",
+            "checkOut": "2024-01-10",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "EP",
+            "price": 3142
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-09",
+            "checkOut": "2024-01-10",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "CP",
+            "price": 3282
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-09",
+            "checkOut": "2024-01-10",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "MAP",
+            "price": 3421
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-09",
+            "checkOut": "2024-01-10",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "AP",
+            "price": 3501
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-09",
+            "checkOut": "2024-01-10",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "EP",
+            "price": 3624
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-09",
+            "checkOut": "2024-01-10",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "CP",
+            "price": 3692
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-09",
+            "checkOut": "2024-01-10",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "MAP",
+            "price": 3761
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-09",
+            "checkOut": "2024-01-10",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "AP",
+            "price": 3901
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-09",
+            "checkOut": "2024-01-10",
+            "roomName": "Elevated House",
+            "roomPlan": "EP",
+            "price": 4607
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-09",
+            "checkOut": "2024-01-10",
+            "roomName": "Elevated House",
+            "roomPlan": "CP",
+            "price": 4748
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-09",
+            "checkOut": "2024-01-10",
+            "roomName": "Elevated House",
+            "roomPlan": "MAP",
+            "price": 4887
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-09",
+            "checkOut": "2024-01-10",
+            "roomName": "Elevated House",
+            "roomPlan": "AP",
+            "price": 5027
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-06",
+            "checkOut": "2024-01-07",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "EP",
+            "price": 2722
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-06",
+            "checkOut": "2024-01-07",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "CP",
+            "price": 2861
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-06",
+            "checkOut": "2024-01-07",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "MAP",
+            "price": 3001
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-06",
+            "checkOut": "2024-01-07",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "AP",
+            "price": 3140
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-06",
+            "checkOut": "2024-01-07",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "EP",
+            "price": 3142
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-06",
+            "checkOut": "2024-01-07",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "CP",
+            "price": 3282
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-06",
+            "checkOut": "2024-01-07",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "MAP",
+            "price": 3421
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-06",
+            "checkOut": "2024-01-07",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "AP",
+            "price": 3501
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-06",
+            "checkOut": "2024-01-07",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "EP",
+            "price": 3763
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-06",
+            "checkOut": "2024-01-07",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "CP",
+            "price": 3831
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-06",
+            "checkOut": "2024-01-07",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "MAP",
+            "price": 3901
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-06",
+            "checkOut": "2024-01-07",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "AP",
+            "price": 4041
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-06",
+            "checkOut": "2024-01-07",
+            "roomName": "Elevated House",
+            "roomPlan": "EP",
+            "price": 4748
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-06",
+            "checkOut": "2024-01-07",
+            "roomName": "Elevated House",
+            "roomPlan": "CP",
+            "price": 4887
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-06",
+            "checkOut": "2024-01-07",
+            "roomName": "Elevated House",
+            "roomPlan": "MAP",
+            "price": 5027
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-06",
+            "checkOut": "2024-01-07",
+            "roomName": "Elevated House",
+            "roomPlan": "AP",
+            "price": 5166
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-10",
+            "checkOut": "2024-01-11",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "EP",
+            "price": 2582
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-10",
+            "checkOut": "2024-01-11",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "CP",
+            "price": 2722
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-10",
+            "checkOut": "2024-01-11",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "MAP",
+            "price": 2861
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-10",
+            "checkOut": "2024-01-11",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "AP",
+            "price": 3001
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-10",
+            "checkOut": "2024-01-11",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "EP",
+            "price": 3142
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-10",
+            "checkOut": "2024-01-11",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "CP",
+            "price": 3282
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-10",
+            "checkOut": "2024-01-11",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "MAP",
+            "price": 3421
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-10",
+            "checkOut": "2024-01-11",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "AP",
+            "price": 3501
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-10",
+            "checkOut": "2024-01-11",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "EP",
+            "price": 3624
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-10",
+            "checkOut": "2024-01-11",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "CP",
+            "price": 3692
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-10",
+            "checkOut": "2024-01-11",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "MAP",
+            "price": 3761
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-10",
+            "checkOut": "2024-01-11",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "AP",
+            "price": 3901
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-10",
+            "checkOut": "2024-01-11",
+            "roomName": "Elevated House",
+            "roomPlan": "EP",
+            "price": 4607
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-10",
+            "checkOut": "2024-01-11",
+            "roomName": "Elevated House",
+            "roomPlan": "CP",
+            "price": 4748
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-10",
+            "checkOut": "2024-01-11",
+            "roomName": "Elevated House",
+            "roomPlan": "MAP",
+            "price": 4887
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-10",
+            "checkOut": "2024-01-11",
+            "roomName": "Elevated House",
+            "roomPlan": "AP",
+            "price": 5027
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-08",
+            "checkOut": "2024-01-09",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "AP",
+            "price": -7902
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-08",
+            "checkOut": "2024-01-09",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "MAP",
+            "price": -7642
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-08",
+            "checkOut": "2024-01-09",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "CP",
+            "price": -7383
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-08",
+            "checkOut": "2024-01-09",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "EP",
+            "price": -7123
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-08",
+            "checkOut": "2024-01-09",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "AP",
+            "price": -8853
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-08",
+            "checkOut": "2024-01-09",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "MAP",
+            "price": -8702
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-08",
+            "checkOut": "2024-01-09",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "CP",
+            "price": -8442
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-08",
+            "checkOut": "2024-01-09",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "EP",
+            "price": -8160
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-08",
+            "checkOut": "2024-01-09",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "AP",
+            "price": -9609
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-08",
+            "checkOut": "2024-01-09",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "MAP",
+            "price": -9327
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-08",
+            "checkOut": "2024-01-09",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "CP",
+            "price": -9209
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-08",
+            "checkOut": "2024-01-09",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "EP",
+            "price": -9088
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-08",
+            "checkOut": "2024-01-09",
+            "roomName": "Elevated House",
+            "roomPlan": "AP",
+            "price": -11719
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-08",
+            "checkOut": "2024-01-09",
+            "roomName": "Elevated House",
+            "roomPlan": "MAP",
+            "price": -11459
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-08",
+            "checkOut": "2024-01-09",
+            "roomName": "Elevated House",
+            "roomPlan": "CP",
+            "price": -11200
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-08",
+            "checkOut": "2024-01-09",
+            "roomName": "Elevated House",
+            "roomPlan": "EP",
+            "price": -10941
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-13",
+            "checkOut": "2024-01-14",
+            "roomName": "Elevated House",
+            "roomPlan": "EP",
+            "price": 5162
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-13",
+            "checkOut": "2024-01-14",
+            "roomName": "Elevated House",
+            "roomPlan": "CP",
+            "price": 5313
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-13",
+            "checkOut": "2024-01-14",
+            "roomName": "Elevated House",
+            "roomPlan": "MAP",
+            "price": 5465
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-13",
+            "checkOut": "2024-01-14",
+            "roomName": "Elevated House",
+            "roomPlan": "AP",
+            "price": 5617
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-14",
+            "checkOut": "2024-01-15",
+            "roomName": "Elevated House",
+            "roomPlan": "EP",
+            "price": 5162
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-14",
+            "checkOut": "2024-01-15",
+            "roomName": "Elevated House",
+            "roomPlan": "CP",
+            "price": 5313
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-14",
+            "checkOut": "2024-01-15",
+            "roomName": "Elevated House",
+            "roomPlan": "MAP",
+            "price": 5465
+        },
+        {
+            "roomID": 7440332,
+            "checkIn": "2024-01-14",
+            "checkOut": "2024-01-15",
+            "roomName": "Elevated House",
+            "roomPlan": "AP",
+            "price": 5617
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-16",
+            "checkOut": "2024-01-17",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "CP",
+            "price": 3692
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-16",
+            "checkOut": "2024-01-17",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "MAP",
+            "price": 3761
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-16",
+            "checkOut": "2024-01-17",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "AP",
+            "price": 3901
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-17",
+            "checkOut": "2024-01-18",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "CP",
+            "price": 3692
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-17",
+            "checkOut": "2024-01-18",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "MAP",
+            "price": 3761
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-17",
+            "checkOut": "2024-01-18",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "AP",
+            "price": 3901
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-19",
+            "checkOut": "2024-01-20",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "CP",
+            "price": 3282
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-19",
+            "checkOut": "2024-01-20",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "MAP",
+            "price": 3421
+        },
+        {
+            "roomID": 2562658,
+            "checkIn": "2024-01-19",
+            "checkOut": "2024-01-20",
+            "roomName": "Super Deluxe AC Room with Balcony",
+            "roomPlan": "AP",
+            "price": 3501
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-15",
+            "checkOut": "2024-01-16",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "CP",
+            "price": 4014
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-15",
+            "checkOut": "2024-01-16",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "MAP",
+            "price": 4089
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-15",
+            "checkOut": "2024-01-16",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "AP",
+            "price": 4241
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-22",
+            "checkOut": "2024-01-23",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "EP",
+            "price": 2582
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-22",
+            "checkOut": "2024-01-23",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "CP",
+            "price": 2722
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-22",
+            "checkOut": "2024-01-23",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "MAP",
+            "price": 2861
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-22",
+            "checkOut": "2024-01-23",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "AP",
+            "price": 3001
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-31",
+            "checkOut": "2024-02-01",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "EP",
+            "price": 2582
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-31",
+            "checkOut": "2024-02-01",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "CP",
+            "price": 2722
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-31",
+            "checkOut": "2024-02-01",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "MAP",
+            "price": 2861
+        },
+        {
+            "roomID": 7509218,
+            "checkIn": "2024-01-31",
+            "checkOut": "2024-02-01",
+            "roomName": "Deluxe AC with Sit Out",
+            "roomPlan": "AP",
+            "price": 3001
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-27",
+            "checkOut": "2024-01-28",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "CP",
+            "price": 4165
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-27",
+            "checkOut": "2024-01-28",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "MAP",
+            "price": 4241
+        },
+        {
+            "roomID": 206900,
+            "checkIn": "2024-01-27",
+            "checkOut": "2024-01-28",
+            "roomName": "Swiss Luxury Tent",
+            "roomPlan": "AP",
+            "price": 4393
+        }
+    ]
+}

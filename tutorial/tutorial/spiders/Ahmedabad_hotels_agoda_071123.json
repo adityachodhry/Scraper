@@ -1,0 +1,538 @@
+{
+    "timestamp": "2023-12-23 08:22:26.453170+00:00",
+    "otaId": 4,
+    "cityCode": "CTAMD",
+    "ranking": [
+        {
+            "rank": 1,
+            "name": "Holiday Inn Express Ahmedabad Prahlad Nagar",
+            "otaPId": "5784587",
+            "starCategory": 4,
+            "userRating": 7.8,
+            "numberOfRatings": 533,
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 2,
+            "name": "Ginger Ahmedabad RTO Circle",
+            "otaPId": "44427471",
+            "starCategory": "-",
+            "userRating": 7.2,
+            "numberOfRatings": 102,
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 3,
+            "name": "Hotel Rajdeep Inn",
+            "otaPId": "12535648",
+            "starCategory": 3,
+            "userRating": 6.1,
+            "numberOfRatings": 96,
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 4,
+            "name": "Tribecca Select",
+            "otaPId": "4985614",
+            "starCategory": 3,
+            "userRating": 7.9,
+            "numberOfRatings": 530,
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 5,
+            "name": "Novotel Ahmedabad Hotel - An AccorHotels Brand",
+            "otaPId": "547994",
+            "starCategory": 5,
+            "userRating": 8.2,
+            "numberOfRatings": 487,
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 6,
+            "name": "Radisson Blu Hotel Ahmedabad",
+            "otaPId": "549013",
+            "starCategory": 5,
+            "userRating": 8.4,
+            "numberOfRatings": 1735,
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 7,
+            "name": "Fortune Select SG Highway, Ahmedabad",
+            "otaPId": "31187864",
+            "starCategory": 5,
+            "userRating": 8.3,
+            "numberOfRatings": 263,
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 8,
+            "name": "Taj Skyline Ahmedabad",
+            "otaPId": "19864526",
+            "starCategory": 5,
+            "userRating": 8.9,
+            "numberOfRatings": 402,
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 9,
+            "name": "DoubleTree by Hilton Ahmedabad",
+            "otaPId": "6377846",
+            "starCategory": 5,
+            "userRating": 8.5,
+            "numberOfRatings": 377,
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 10,
+            "name": "Binori Hotel Ahmedabad",
+            "otaPId": "6206755",
+            "starCategory": 4,
+            "userRating": 7.9,
+            "numberOfRatings": 290,
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 11,
+            "name": "-",
+            "otaPId": "9783792",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 12,
+            "name": "-",
+            "otaPId": "34478470",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 13,
+            "name": "-",
+            "otaPId": "20663474",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 14,
+            "name": "-",
+            "otaPId": "23152836",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 15,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 16,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 17,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 18,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 19,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 20,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 21,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 22,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 23,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 24,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 25,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 26,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 27,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 28,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 29,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 30,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 31,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 32,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 33,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 34,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 35,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 36,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 37,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 38,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 39,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 40,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 41,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 42,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 43,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 44,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 45,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 46,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 47,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 48,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 49,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 50,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 51,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 52,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 53,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 54,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 55,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 56,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 57,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 58,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        },
+        {
+            "rank": 59,
+            "name": "-",
+            "otaPId": "-",
+            "starCategory": "-",
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": "-"
+        }
+    ]
+}

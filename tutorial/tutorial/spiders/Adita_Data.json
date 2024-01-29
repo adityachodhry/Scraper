@@ -1,0 +1,537 @@
+{
+    "timestamp": "2024-01-20 07:04:42.327396+00:00",
+    "otaId": 5,
+    "ranking": [
+        {
+            "hotelId": "-",
+            "rank": 1,
+            "name": "Hotel The Royal Plaza",
+            "starCategory": 4,
+            "userRating": 5.0,
+            "numberOfRatings": "-",
+            "discountedPrice": 7830
+        },
+        {
+            "hotelId": "-",
+            "rank": 2,
+            "name": "Foxoso Delhi Airport T3",
+            "starCategory": 4,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 3050
+        },
+        {
+            "hotelId": "-",
+            "rank": 3,
+            "name": "Hotel Ramhan Palace Mahipalpur",
+            "starCategory": 4,
+            "userRating": 3.0,
+            "numberOfRatings": 109,
+            "discountedPrice": 5200
+        },
+        {
+            "hotelId": "-",
+            "rank": 4,
+            "name": "Le Meridien Gurgaon",
+            "starCategory": 5,
+            "userRating": 4.5,
+            "numberOfRatings": 2434,
+            "discountedPrice": 10000
+        },
+        {
+            "hotelId": "-",
+            "rank": 5,
+            "name": "The Grand Uddhav",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 33,
+            "discountedPrice": 6000
+        },
+        {
+            "hotelId": "-",
+            "rank": 6,
+            "name": "Hotel Le Cadre Opp. Kailash Colony Metro Station",
+            "starCategory": 3,
+            "userRating": 3.5,
+            "numberOfRatings": 50,
+            "discountedPrice": 5500
+        },
+        {
+            "hotelId": "-",
+            "rank": 7,
+            "name": "The Lalit New Delhi",
+            "starCategory": 5,
+            "userRating": 4.0,
+            "numberOfRatings": 9127,
+            "discountedPrice": 11920
+        },
+        {
+            "hotelId": "-",
+            "rank": 8,
+            "name": "Nuo By Justa",
+            "starCategory": 4,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 9360
+        },
+        {
+            "hotelId": "-",
+            "rank": 9,
+            "name": "Sky Rich International",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 36,
+            "discountedPrice": 4599
+        },
+        {
+            "hotelId": "-",
+            "rank": 10,
+            "name": "Caspia Hotel New Delhi Shalimar Bagh",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 568,
+            "discountedPrice": 6799
+        },
+        {
+            "hotelId": "-",
+            "rank": 11,
+            "name": "Radisson Blu Hotel New Delhi Dwarka",
+            "starCategory": 5,
+            "userRating": 4.0,
+            "numberOfRatings": 4878,
+            "discountedPrice": 8218
+        },
+        {
+            "hotelId": "-",
+            "rank": 12,
+            "name": "The Lohmod Boutique Hotel At Delhi Airport",
+            "starCategory": 4,
+            "userRating": 3.0,
+            "numberOfRatings": 184,
+            "discountedPrice": 8000
+        },
+        {
+            "hotelId": "-",
+            "rank": 13,
+            "name": "Hotel Ajanta",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 2286,
+            "discountedPrice": 7974
+        },
+        {
+            "hotelId": "-",
+            "rank": 14,
+            "name": "The Ashok",
+            "starCategory": 5,
+            "userRating": 3.0,
+            "numberOfRatings": 788,
+            "discountedPrice": 29660
+        },
+        {
+            "hotelId": "-",
+            "rank": 15,
+            "name": "The Suryaa New Delhi",
+            "starCategory": 5,
+            "userRating": 4.5,
+            "numberOfRatings": 4448,
+            "discountedPrice": 15334
+        },
+        {
+            "hotelId": "-",
+            "rank": 16,
+            "name": "Zone Connect By The Park Saket Delhi",
+            "starCategory": 5,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 8499
+        },
+        {
+            "hotelId": "-",
+            "rank": 17,
+            "name": "Novotel New Delhi Aerocity",
+            "starCategory": 5,
+            "userRating": 4.5,
+            "numberOfRatings": 3660,
+            "discountedPrice": 9500
+        },
+        {
+            "hotelId": "-",
+            "rank": 18,
+            "name": "Le Roi Express, Paharganj",
+            "starCategory": 4,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 2879
+        },
+        {
+            "hotelId": "-",
+            "rank": 19,
+            "name": "Hotel Shanti Palace Mahipalpur",
+            "starCategory": 4,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 7500
+        },
+        {
+            "hotelId": "-",
+            "rank": 20,
+            "name": "Rose Mallow Hotel",
+            "starCategory": 4,
+            "userRating": 3.5,
+            "numberOfRatings": 194,
+            "discountedPrice": 6199
+        },
+        {
+            "hotelId": "-",
+            "rank": 21,
+            "name": "Welcomhotel Dwarka",
+            "starCategory": 5,
+            "userRating": 4.0,
+            "numberOfRatings": 4616,
+            "discountedPrice": 11040
+        },
+        {
+            "hotelId": "-",
+            "rank": 22,
+            "name": "Hotel Le Roi",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 944,
+            "discountedPrice": 3049
+        },
+        {
+            "hotelId": "-",
+            "rank": 23,
+            "name": "Hotel Airport City",
+            "starCategory": 3,
+            "userRating": 3.0,
+            "numberOfRatings": 156,
+            "discountedPrice": 1561
+        },
+        {
+            "hotelId": "-",
+            "rank": 24,
+            "name": "Hotel Aura New Delhi Railway Station",
+            "starCategory": 3,
+            "userRating": 3.5,
+            "numberOfRatings": 518,
+            "discountedPrice": 6078
+        },
+        {
+            "hotelId": "-",
+            "rank": 25,
+            "name": "Hotel Saket 27",
+            "starCategory": 3,
+            "userRating": 3.5,
+            "numberOfRatings": 125,
+            "discountedPrice": 7000
+        },
+        {
+            "hotelId": "-",
+            "rank": 26,
+            "name": "Karon Hotel",
+            "starCategory": 3,
+            "userRating": 3.5,
+            "numberOfRatings": 37,
+            "discountedPrice": 7451
+        },
+        {
+            "hotelId": "-",
+            "rank": 27,
+            "name": "Eros Hotel New Delhi, Nehru Place",
+            "starCategory": 5,
+            "userRating": 4.5,
+            "numberOfRatings": 3060,
+            "discountedPrice": 8977
+        },
+        {
+            "hotelId": "-",
+            "rank": 28,
+            "name": "Hotel Smart Plaza Delhi Airport",
+            "starCategory": 3,
+            "userRating": 2.5,
+            "numberOfRatings": 9,
+            "discountedPrice": 4100
+        },
+        {
+            "hotelId": "-",
+            "rank": 29,
+            "name": "Sheraton New Delhi",
+            "starCategory": 5,
+            "userRating": 4.5,
+            "numberOfRatings": 3264,
+            "discountedPrice": 13000
+        },
+        {
+            "hotelId": "-",
+            "rank": 30,
+            "name": "Hotel Pullman New Delhi Aerocity",
+            "starCategory": 5,
+            "userRating": 4.5,
+            "numberOfRatings": 4009,
+            "discountedPrice": 14500
+        },
+        {
+            "hotelId": "-",
+            "rank": 31,
+            "name": "The Claridges",
+            "starCategory": 5,
+            "userRating": 4.0,
+            "numberOfRatings": 4473,
+            "discountedPrice": 19800
+        },
+        {
+            "hotelId": "-",
+            "rank": 32,
+            "name": "The Oberoi, New Delhi",
+            "starCategory": 5,
+            "userRating": 4.5,
+            "numberOfRatings": 2829,
+            "discountedPrice": 22750
+        },
+        {
+            "hotelId": "-",
+            "rank": 33,
+            "name": "Mehra Residency",
+            "starCategory": 5,
+            "userRating": 4.0,
+            "numberOfRatings": 98,
+            "discountedPrice": 2419
+        },
+        {
+            "hotelId": "-",
+            "rank": 34,
+            "name": "Park Inn By Radisson New Delhi Lajpat Nagar",
+            "starCategory": 4,
+            "userRating": 4.0,
+            "numberOfRatings": 287,
+            "discountedPrice": 8499
+        },
+        {
+            "hotelId": "-",
+            "rank": 35,
+            "name": "Hotel Star Suites",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 5000
+        },
+        {
+            "hotelId": "-",
+            "rank": 36,
+            "name": "Divine Paradise Tavisha",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 6049
+        },
+        {
+            "hotelId": "-",
+            "rank": 37,
+            "name": "Crowne Plaza New Delhi Mayur Vihar Noida, An Ihg Hotel",
+            "starCategory": 5,
+            "userRating": 4.5,
+            "numberOfRatings": 1474,
+            "discountedPrice": 11999
+        },
+        {
+            "hotelId": "-",
+            "rank": 38,
+            "name": "The Imperial New Delhi",
+            "starCategory": 5,
+            "userRating": 4.5,
+            "numberOfRatings": 3875,
+            "discountedPrice": 26741
+        },
+        {
+            "hotelId": "-",
+            "rank": 39,
+            "name": "Iidl Suites",
+            "starCategory": 4,
+            "userRating": 4.0,
+            "numberOfRatings": 436,
+            "discountedPrice": 6000
+        },
+        {
+            "hotelId": "-",
+            "rank": 40,
+            "name": "The Orion - Greater Kailash",
+            "starCategory": 4,
+            "userRating": 4.5,
+            "numberOfRatings": 1217,
+            "discountedPrice": 6650
+        },
+        {
+            "hotelId": "-",
+            "rank": 41,
+            "name": "The Pamposh",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 10299
+        },
+        {
+            "hotelId": "-",
+            "rank": 42,
+            "name": "The Corus",
+            "starCategory": 3,
+            "userRating": 3.0,
+            "numberOfRatings": 357,
+            "discountedPrice": 7500
+        },
+        {
+            "hotelId": "-",
+            "rank": 43,
+            "name": "Kastor International",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 53,
+            "discountedPrice": 4900
+        },
+        {
+            "hotelId": "-",
+            "rank": 44,
+            "name": "Hotel Rockland C R Park",
+            "starCategory": 4,
+            "userRating": 4.0,
+            "numberOfRatings": 348,
+            "discountedPrice": 6999
+        },
+        {
+            "hotelId": "-",
+            "rank": 45,
+            "name": "Hotel Southgate",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 117,
+            "discountedPrice": 4000
+        },
+        {
+            "hotelId": "-",
+            "rank": 46,
+            "name": "Hotel Gauranga Inn",
+            "starCategory": 2,
+            "userRating": 4.5,
+            "numberOfRatings": 11,
+            "discountedPrice": 2090
+        },
+        {
+            "hotelId": "-",
+            "rank": 47,
+            "name": "Hotel Hari Piorko",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 2195,
+            "discountedPrice": 15000
+        },
+        {
+            "hotelId": "-",
+            "rank": 48,
+            "name": "Hari Piorko Inn At New Delhi Railway Station",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 4200
+        },
+        {
+            "hotelId": "-",
+            "rank": 49,
+            "name": "Itc Maurya, A Luxury Collection Hotel, New Delhi",
+            "starCategory": 5,
+            "userRating": 4.5,
+            "numberOfRatings": 5423,
+            "discountedPrice": 13500
+        },
+        {
+            "hotelId": "-",
+            "rank": 50,
+            "name": "Hotel Southern, New Delhi",
+            "starCategory": 3,
+            "userRating": 3.0,
+            "numberOfRatings": 412,
+            "discountedPrice": 3194
+        },
+        {
+            "hotelId": "-",
+            "rank": 51,
+            "name": "Hotel Grand Park Inn",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 653,
+            "discountedPrice": 7400
+        },
+        {
+            "hotelId": "-",
+            "rank": 52,
+            "name": "Hotel Sri Nanak Continental 4Min Karol Bagh Market",
+            "starCategory": 3,
+            "userRating": 4.0,
+            "numberOfRatings": 65,
+            "discountedPrice": 3091
+        },
+        {
+            "hotelId": "-",
+            "rank": 53,
+            "name": "Hotel Z Suite Near Delhi Airport",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 7999
+        },
+        {
+            "hotelId": "-",
+            "rank": 54,
+            "name": "Andaz Delhi - A Concept By Hyatt",
+            "starCategory": 5,
+            "userRating": 5.0,
+            "numberOfRatings": 4044,
+            "discountedPrice": 15320
+        },
+        {
+            "hotelId": "-",
+            "rank": 55,
+            "name": "Lemon Tree Premier, Delhi Airport",
+            "starCategory": 4,
+            "userRating": 4.5,
+            "numberOfRatings": 4285,
+            "discountedPrice": 16183
+        },
+        {
+            "hotelId": "-",
+            "rank": 56,
+            "name": "Hotel Star",
+            "starCategory": 4,
+            "userRating": 3.5,
+            "numberOfRatings": 142,
+            "discountedPrice": 3288
+        },
+        {
+            "hotelId": "-",
+            "rank": 57,
+            "name": "Hotel Golden Saffron By F9 Hotels",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 4211
+        },
+        {
+            "hotelId": "-",
+            "rank": 58,
+            "name": "Milestone Hotel & Resort",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 3418
+        },
+        {
+            "hotelId": "-",
+            "rank": 59,
+            "name": "Airport Hotel Shivaka Inn",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": "-",
+            "discountedPrice": 2900
+        }
+    ]
+}

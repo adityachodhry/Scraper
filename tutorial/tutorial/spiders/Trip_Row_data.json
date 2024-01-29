@@ -1,0 +1,1280 @@
+{
+  "data": {
+    "roomFilters": [
+      {
+        "title": "Bed Type",
+        "type": "4",
+        "filterItems": [
+          {
+            "title": "1 Double Bed",
+            "type": "4",
+            "filterId": "4|1",
+            "mutexIds": [
+              "BED"
+            ],
+            "parentTitle": "Bed Type"
+          }
+        ]
+      },
+      {
+        "title": "Booking Policy",
+        "type": "94",
+        "filterItems": [
+          {
+            "title": "Instant Confirmation",
+            "type": "23",
+            "filterId": "23|5",
+            "mutexIds": [],
+            "parentTitle": "Booking Policy"
+          }
+        ]
+      },
+      {
+        "title": "Payment",
+        "type": "7",
+        "filterItems": [
+          {
+            "title": "Prepay Online",
+            "type": "7",
+            "filterId": "7|2",
+            "mutexIds": [],
+            "parentTitle": "Payment"
+          }
+        ]
+      }
+    ],
+    "quickFilter": [
+      {
+        "title": "Instant Confirmation",
+        "operation": {
+          "isRoomFilter": true,
+          "isLocalFilter": true,
+          "selfMutexIds": [],
+          "otherMutexIds": []
+        },
+        "data": {
+          "filterId": "23|5",
+          "type": "23",
+          "value": "5",
+          "subType": "2"
+        },
+        "count": 3
+      },
+      {
+        "title": "1 Double Bed",
+        "operation": {
+          "isRoomFilter": true,
+          "isLocalFilter": true,
+          "selfMutexIds": [],
+          "otherMutexIds": []
+        },
+        "data": {
+          "filterId": "4|1",
+          "type": "4",
+          "value": "1",
+          "subType": "2"
+        },
+        "count": 1
+      },
+      {
+        "title": "Prepay Online",
+        "operation": {
+          "isRoomFilter": true,
+          "isLocalFilter": true,
+          "selfMutexIds": [
+            "ONLINE"
+          ],
+          "otherMutexIds": [
+            "CREDIT"
+          ]
+        },
+        "data": {
+          "filterId": "7|2",
+          "type": "7",
+          "value": "2",
+          "subType": "2"
+        },
+        "count": 3
+      }
+    ],
+    "roomList": [
+      {
+        "key": "379015742",
+        "subRoomList": [
+          {
+            "key": "379015742",
+            "skey": "1246927179_JH2PEC-1-Z-1",
+            "roomToken": "JH2PEC-1-Z-1",
+            "sRoomId": 1246927179
+          }
+        ]
+      },
+      {
+        "key": "475254765",
+        "subRoomList": [
+          {
+            "key": "475254765",
+            "skey": "1511126328_NPNN80-1-Z-1",
+            "roomToken": "NPNN80-1-Z-1",
+            "sRoomId": 1511126328
+          }
+        ]
+      },
+      {
+        "key": "475254769",
+        "subRoomList": [
+          {
+            "key": "475254769",
+            "skey": "1511126324_NPNN8L-1-Z-1",
+            "roomToken": "NPNN8L-1-Z-1",
+            "sRoomId": 1511126324
+          }
+        ]
+      }
+    ],
+    "metaRooms": {
+      "title": "",
+      "roomCount": 0,
+      "roomList": []
+    },
+    "compensatedRooms": {
+      "title": "",
+      "roomCount": 0,
+      "roomList": [],
+      "hasRecommendQuantity": false
+    },
+    "physicRoomMap": {
+      "379015742": {
+        "id": 379015742,
+        "name": "Deluxe Room",
+        "rent": "",
+        "pictureInfo": [
+          {
+            "url": "https://ak-d.tripcdn.com/images/0220f120009zurkxm325C.jpg",
+            "desc": "",
+            "smallPicUrl": "https://ak-d.tripcdn.com/images/0220f120009zurkxm325C_R_160_90_R5_D.jpg",
+            "bigPicUrl": "https://ak-d.tripcdn.com/images/0220f120009zurkxm325C_R_224_126_R5_D.jpg"
+          },
+          {
+            "url": "https://ak-d.tripcdn.com/images/0226u12000a8hi5oqC80F.jpg",
+            "desc": "",
+            "smallPicUrl": "https://ak-d.tripcdn.com/images/0226u12000a8hi5oqC80F_R_160_90_R5_D.jpg",
+            "bigPicUrl": "https://ak-d.tripcdn.com/images/0226u12000a8hi5oqC80F_R_224_126_R5_D.jpg"
+          },
+          {
+            "url": "https://ak-d.tripcdn.com/images/0586u12000cyiw5kiA21F.jpg",
+            "desc": "",
+            "smallPicUrl": "https://ak-d.tripcdn.com/images/0586u12000cyiw5kiA21F_R_160_90_R5_D.jpg",
+            "bigPicUrl": "https://ak-d.tripcdn.com/images/0586u12000cyiw5kiA21F_R_224_126_R5_D.jpg"
+          }
+        ],
+        "faciltityInfo": {
+          "qualityFacilityIds": [],
+          "list": [
+            {
+              "title": "Internet and Communication Devices",
+              "id": 36,
+              "subList": [
+                {
+                  "title": "Wi-Fi",
+                  "id": 264,
+                  "freeType": 0,
+                  "isNormalShow": 0
+                }
+              ]
+            }
+          ]
+        },
+        "bedInfo": {
+          "icon": [
+            "ic_new_double_bed"
+          ],
+          "hover": [],
+          "title": "1 double bed",
+          "cpxBedInfo": {
+            "title": "",
+            "bedDetail": [
+              {
+                "roomName": "Bedroom 1",
+                "detail": [
+                  "1 double bed(1.31m-1.5m wide)"
+                ]
+              }
+            ]
+          }
+        },
+        "smokeInfo": {
+          "title": "Smoking Permitted",
+          "type": 1,
+          "icon": "ic_new_fa_smoking"
+        },
+        "areaInfo": {
+          "title": "14m\u00b2",
+          "icon": "ic_fa_acreage"
+        },
+        "encourageTag": [],
+        "wifiInfo": {
+          "title": "No Wi-Fi",
+          "type": 0,
+          "subType": 0,
+          "icon": "ic_new_no_fa_wifi"
+        },
+        "physicalFacilityList": [
+          {
+            "icon": "ic_new_fa_smoking",
+            "title": "Smoking Permitted"
+          },
+          {
+            "icon": "ic_roomspace",
+            "title": "14m\u00b2"
+          },
+          {
+            "title": "No Wi-Fi",
+            "icon": "ic_new_no_fa_wifi",
+            "isHighLight": false
+          }
+        ],
+        "sinkEncorageTag": [],
+        "physicRank": 1
+      },
+      "475254765": {
+        "id": 475254765,
+        "name": "Royal Deluxe Room",
+        "rent": "",
+        "pictureInfo": [
+          {
+            "url": "https://ak-d.tripcdn.com/images/0583i12000cxxvk5nA7C5.jpg",
+            "desc": "",
+            "smallPicUrl": "https://ak-d.tripcdn.com/images/0583i12000cxxvk5nA7C5_R_160_90_R5_D.jpg",
+            "bigPicUrl": "https://ak-d.tripcdn.com/images/0583i12000cxxvk5nA7C5_R_224_126_R5_D.jpg"
+          }
+        ],
+        "faciltityInfo": {
+          "qualityFacilityIds": [],
+          "list": [
+            {
+              "title": "Internet and Communication Devices",
+              "id": 36,
+              "subList": [
+                {
+                  "title": "Wi-Fi",
+                  "id": 264,
+                  "freeType": 0,
+                  "isNormalShow": 0
+                }
+              ]
+            }
+          ]
+        },
+        "bedInfo": {
+          "icon": [
+            "ic_new_bed"
+          ],
+          "hover": [],
+          "title": "Bed type randomly assigned",
+          "cpxBedInfo": {
+            "title": "",
+            "bedDetail": []
+          }
+        },
+        "areaInfo": {
+          "title": "14m\u00b2",
+          "icon": "ic_fa_acreage"
+        },
+        "encourageTag": [],
+        "wifiInfo": {
+          "title": "No Wi-Fi",
+          "type": 0,
+          "subType": 0,
+          "icon": "ic_new_no_fa_wifi"
+        },
+        "physicalFacilityList": [
+          {
+            "icon": "ic_roomspace",
+            "title": "14m\u00b2"
+          },
+          {
+            "title": "No Wi-Fi",
+            "icon": "ic_new_no_fa_wifi",
+            "isHighLight": false
+          }
+        ],
+        "sinkEncorageTag": [],
+        "physicRank": 2
+      },
+      "475254769": {
+        "id": 475254769,
+        "name": "Suite",
+        "rent": "",
+        "pictureInfo": [],
+        "faciltityInfo": {
+          "qualityFacilityIds": [],
+          "list": [
+            {
+              "title": "Internet and Communication Devices",
+              "id": 36,
+              "subList": [
+                {
+                  "title": "Wi-Fi",
+                  "id": 264,
+                  "freeType": 0,
+                  "isNormalShow": 0
+                }
+              ]
+            }
+          ]
+        },
+        "bedInfo": {
+          "icon": [
+            "ic_new_bed"
+          ],
+          "hover": [],
+          "title": "Bed type randomly assigned",
+          "cpxBedInfo": {
+            "title": "",
+            "bedDetail": []
+          }
+        },
+        "encourageTag": [],
+        "wifiInfo": {
+          "title": "No Wi-Fi",
+          "type": 0,
+          "subType": 0,
+          "icon": "ic_new_no_fa_wifi"
+        },
+        "physicalFacilityList": [
+          {
+            "title": "No Wi-Fi",
+            "icon": "ic_new_no_fa_wifi",
+            "isHighLight": false
+          }
+        ],
+        "sinkEncorageTag": [],
+        "physicRank": 3
+      }
+    },
+    "saleRoomMap": {
+      "1511126324_NPNN8L-1-Z-1": {
+        "id": 1511126324,
+        "subHotelId": 95413411,
+        "physicalRoomId": 475254769,
+        "name": "",
+        "shadowId": 0,
+        "roomCode": "NPNN8L-1-Z-1",
+        "mealInfo": {
+          "hover": [
+            "Meals not included"
+          ],
+          "mealFlag": 0,
+          "title": "Meals not included"
+        },
+        "confirmInfo": {
+          "type": 1,
+          "title": "Instant Confirmation",
+          "hover": "Booking will be confirmed instantly after submission."
+        },
+        "cancelInfo": {
+          "type": 5,
+          "title": "Non-refundable",
+          "hover": "This booking cannot be modified, and no refund will be given if you cancel it. ",
+          "hotelDateTitle": "Hotel's Local Time",
+          "userDateTitle": "Your Local Time",
+          "ladderDetailInfo": [],
+          "simpleDescList": [
+            {
+              "txt": "Non-refundable",
+              "type": 3
+            },
+            {
+              "txt": "Non-refundable",
+              "type": 4
+            }
+          ],
+          "simpleDesc": "Non-refundable"
+        },
+        "guestCountInfo": {
+          "guestCount": 2,
+          "childCount": 0,
+          "countHover": "",
+          "childTitle": "",
+          "childHover": [],
+          "childType": 0
+        },
+        "isMetaSelected": false,
+        "isRoomIdSelected": false,
+        "isMetaRecommend": false,
+        "isChildPriceRoom": false,
+        "paymentInfo": {
+          "guaranteeType": 0,
+          "type": 0,
+          "subType": 1,
+          "combineType": 2,
+          "subTitle": "Prepay Online",
+          "guranteeAmount": 7959.96,
+          "paymentTitleNew": "Prepay online",
+          "paymentHoverNew": []
+        },
+        "bookingStatusInfo": {
+          "isBooking": true,
+          "isFullRoom": false,
+          "guaranteeText": "",
+          "guaranteeTextHover": "",
+          "buttonType": 1,
+          "isHidePrice": false,
+          "buttonText": "Book",
+          "remainRoomQuantity": 2,
+          "stillBookingButton": "",
+          "toLoginButton": "",
+          "toLoginHover": "",
+          "signInTip": ""
+        },
+        "premiumInfo": {},
+        "filterIds": [
+          "23|2",
+          "4|0",
+          "22|666667",
+          "81|1309",
+          "44|1005",
+          "76|2",
+          "23|5",
+          "7|2",
+          "76|1",
+          "76|4",
+          "76|3",
+          "7|5"
+        ],
+        "discountLabels": [],
+        "tagInfoList": [
+          {
+            "tagId": 90005,
+            "tagTitle": "POINTOFORDER",
+            "tagExtensions": [
+              {
+                "type": "DISPLAYCURRENCY",
+                "value": "INR"
+              },
+              {
+                "type": "DISPLAYAMOUNT",
+                "value": "64.03"
+              },
+              {
+                "type": "COINSAMOUNT",
+                "value": "77"
+              }
+            ],
+            "tagDesc": ""
+          },
+          {
+            "tagId": 10012,
+            "tagTitle": "AgentRoom",
+            "tagExtensions": [
+              {
+                "type": "AGENTTYPE",
+                "value": "0"
+              }
+            ],
+            "tagDesc": "This room is offered through one of Trip.com's partners. To facilitate bringing you competitive prices for all room types, Trip.com occasionally works with a number of partners and agents around the world."
+          }
+        ],
+        "tripCoinInfo": {
+          "hover": {
+            "title": "Earn Trip Coins ",
+            "leaveTotalReturn": "Earn a total of 77 Trip Coins after your stay (approx. INR 64.03). ",
+            "leaveItems": [
+              "Earn 77 Trip Coins (approx. INR 64.03) when you book this room type."
+            ],
+            "desc": "Trip Coins can be used to save instantly on room rates."
+          }
+        },
+        "priceInfo": {
+          "price": 7107,
+          "displayPrice": "INR 7,107",
+          "deletePrice": "",
+          "deletePricewithOutCurrency": 0,
+          "currency": "INR",
+          "priceExplanation": "After tax INR 7,960"
+        },
+        "totalPriceInfo": {
+          "isCMA": false,
+          "total": {
+            "title": "Prepay Online",
+            "content": "INR 7,959.96",
+            "localPriceDesc": ""
+          },
+          "quantityDays": {
+            "title": "1 room x 1 night",
+            "content": "INR 7,107.11"
+          },
+          "promotionItems": [],
+          "leaveReturn": {
+            "title": "Receive After Stay",
+            "content": "77 Trip Coins",
+            "convertContent": "77 Trip Coins \u2248 INR 64.03"
+          },
+          "payTax": {
+            "title": "Taxes & fees",
+            "content": "INR 852.85",
+            "items": [
+              {
+                "title": "Goods & Services Tax",
+                "content": "INR 852.85"
+              }
+            ],
+            "price": 852.85
+          },
+          "additionalInfo": "",
+          "veilDiffPriceZeroDesc": "",
+          "tripCoinsInfo": {
+            "title": "{0}Earn 77 Trip Coins{/0} (\u2248INR 64.03)",
+            "content": "Your Trip Coins will be sent to your account after you complete your stay. You can use them to save instantly when you pay online.",
+            "items": [
+              {
+                "subTitle": "",
+                "subContent": [
+                  "For every $100 or equivalent spent, you'll earn 80 Trip Coins."
+                ]
+              }
+            ]
+          },
+          "isFreeCancel": false
+        },
+        "inspireInfo": [
+          {
+            "title": "Only 2 rooms left",
+            "type": "HOLDROOM",
+            "value": "Only 2 rooms left"
+          }
+        ],
+        "rank": "1",
+        "partnerInfo": {
+          "title": "Provided by our partners",
+          "hover": "This room is offered through one of Trip.com's partners. To facilitate bringing you competitive prices for all room types, Trip.com occasionally works with a number of partners and agents around the world."
+        },
+        "roomUniqueKey": "H4sIAAAAAAAAAO1UXWgcVRSeMzO7nSyxTZeIa542F4W4ZIZ7Z2Z3fkDcbENtoW6XNEXoD2E7OzVLupPpzC6shkCJ-GBAxT6VPFghFCSgaKkQamlp-6AGwf7QSkWExgdLi2JBX-qL987usIl96IM-dl7m_N3vfOe7cyadlCADWRi6A9K5-19fS6RBzUYGXt1mvj8z9sGVv9qlPjS2-0H45Zlp7YWxkzDa99mrd98a_P314vaXDtH8c5eK5Idl_-VU-E7ROnjzwi-D5beLpaT00SkxI56CP3--LH8BjV__7jtdeVhcBf4OcOy5-lXxLsQA9-Dh6e_X4WN--dtL8grPneW583xS-mkNZ8Qr1DizlMiIazx3g-d-5Ll1nnvEC9JVY0HgFgVuQeQ-FGOklQR3PtFfrpTL5h6ZyAdkgrhclmCM9YKlmjKuqqZKsCHrhmZaqkw0jC0Ng_nu7YufJnfBRHLc1Md3lg4MpZ7d67vea27jiBvsmK174UT9jelmmIbJI7mUsH_f-PZoDu6PV4aE3eWJYUZgZG2ymGMeib3gGQkG3rslZGayMPLdRHt16yJsaZ_47cUTMHMDEq4n79-3DrDzEWwboBcxArugAm34BOAbHhaEftebaoXyrHes7rmLAuAl4bo4h_ymj2wyioJjyD44h5wqsrGCR5HjtAJkI0oAUcdtI9vUFJI3jTx1G1O9usaUT22DCqEQ0vWnvGYvHWwobUa1Vt5SrEInsCnLuuRVxWQ9aPdm0HKpFRGhKlEitcDv0HRmQ9qiQAzFKGC10zaoO-5G9KjELFDW1OlmC9TXzAg0cD3nTYrMYGkhUrGqy5jIqkYjvl-rMUUOU7Nz0sorhjpPfaYFYYyn6zUW1nXT0ilkg7kIs8NVRo3OQfXwN-rob9aRNun2OB52LiEWI2BYJE8IUQuaqtOAzyI0E3bfkZLxND0VmYSGpuR1xjR0kD2HqkF3OEyi0ZyIJ5va7SV0NE8PR5knfeH0ZDPcpFdWxTbWbJWg-RWBr-w4KygSpPlKJZvIbe02oC_MHjATpQFJTPenUj2ANWFLSsAqGeDvC-dAguHOPgwWczBpLwO98Fq16f77jrwWW6i9R0uBW505WmW3jXvRPS3Pmd4UGa97nkvFwPOjjwPq_wnw8KKoRJucZiv7fPwLGY7_b_V4iY_Hm35SBLIkPt3Apxv4P2_g5yL8A71WNRqMBwAA",
+        "roomKey": "1511126324_2_0_1511126324_021_2_",
+        "ruleInfo": {
+          "minQuantity": 1,
+          "maxQuantity": 2
+        },
+        "isStartPriceRoom": true,
+        "isFoldStatus": false,
+        "comparingAmount": 7959.96,
+        "layerInfo": {
+          "token": "ArchiveSwitchOpen_46c66a7d290a4174a9ec99b773f5d449_100046928-0a282107-473892-130093"
+        },
+        "roomLabelList": [],
+        "roomDescList": [
+          {
+            "type": 1,
+            "text": "Non-refundable",
+            "fontColor": "#455873"
+          },
+          {
+            "type": 2,
+            "text": "Instant Confirmation",
+            "fontColor": "#455873"
+          },
+          {
+            "type": 8,
+            "text": "Only 2 rooms left",
+            "fontColor": "#ee3b28"
+          }
+        ],
+        "saleRoomCategoryList": [
+          {
+            "title": "Meals not included",
+            "icon": "ic_new_nonbreakfast",
+            "isHightLight": false,
+            "type": "mealInfo",
+            "hover": [
+              "Meals not included"
+            ]
+          },
+          {
+            "title": "Non-refundable",
+            "isHightLight": false,
+            "icon": "ic_new_nonrefundable"
+          },
+          {
+            "title": "Instant Confirmation",
+            "icon": "ic_new_quick",
+            "isHightLight": true,
+            "type": "confirmInfo",
+            "hover": [
+              "Booking will be confirmed instantly after submission."
+            ]
+          },
+          {
+            "title": "Prepay online",
+            "icon": "a-ico_prepayonline",
+            "type": "paymentInfo"
+          }
+        ],
+        "sinkDiscountLabels": []
+      },
+      "1246927179_JH2PEC-1-Z-1": {
+        "id": 1246927179,
+        "subHotelId": 95413411,
+        "physicalRoomId": 379015742,
+        "name": "",
+        "shadowId": 0,
+        "roomCode": "JH2PEC-1-Z-1",
+        "mealInfo": {
+          "hover": [
+            "Meals not included"
+          ],
+          "mealFlag": 0,
+          "title": "Meals not included"
+        },
+        "confirmInfo": {
+          "type": 1,
+          "title": "Instant Confirmation",
+          "hover": "Booking will be confirmed instantly after submission."
+        },
+        "cancelInfo": {
+          "type": 5,
+          "title": "Non-refundable",
+          "hover": "This booking cannot be modified, and no refund will be given if you cancel it. ",
+          "hotelDateTitle": "Hotel's Local Time",
+          "userDateTitle": "Your Local Time",
+          "ladderDetailInfo": [],
+          "simpleDescList": [
+            {
+              "txt": "Non-refundable",
+              "type": 3
+            },
+            {
+              "txt": "Non-refundable",
+              "type": 4
+            }
+          ],
+          "simpleDesc": "Non-refundable"
+        },
+        "guestCountInfo": {
+          "guestCount": 2,
+          "childCount": 0,
+          "countHover": "",
+          "childTitle": "",
+          "childHover": [],
+          "childType": 0
+        },
+        "isMetaSelected": false,
+        "isRoomIdSelected": false,
+        "isMetaRecommend": false,
+        "isChildPriceRoom": false,
+        "paymentInfo": {
+          "guaranteeType": 0,
+          "type": 0,
+          "subType": 1,
+          "combineType": 2,
+          "subTitle": "Prepay Online",
+          "guranteeAmount": 4035.69,
+          "paymentTitleNew": "Prepay online",
+          "paymentHoverNew": []
+        },
+        "bookingStatusInfo": {
+          "isBooking": true,
+          "isFullRoom": false,
+          "guaranteeText": "",
+          "guaranteeTextHover": "",
+          "buttonType": 1,
+          "isHidePrice": false,
+          "buttonText": "Book",
+          "remainRoomQuantity": 5,
+          "stillBookingButton": "",
+          "toLoginButton": "",
+          "toLoginHover": "",
+          "signInTip": ""
+        },
+        "minPriceInfo": {
+          "title": "Today's best price!",
+          "type": "ROOM_MIN_PRICE",
+          "value": "5"
+        },
+        "premiumInfo": {
+          "title": "Today's best price!",
+          "type": "ROOM_MIN_PRICE",
+          "value": "5"
+        },
+        "filterIds": [
+          "23|2",
+          "22|666667",
+          "4|1",
+          "44|1005",
+          "76|2",
+          "23|5",
+          "7|2",
+          "76|1",
+          "76|4",
+          "76|3",
+          "7|5",
+          "77|Smoking"
+        ],
+        "discountLabels": [],
+        "tagInfoList": [
+          {
+            "tagId": 90005,
+            "tagTitle": "POINTOFORDER",
+            "tagExtensions": [
+              {
+                "type": "DISPLAYCURRENCY",
+                "value": "INR"
+              },
+              {
+                "type": "DISPLAYAMOUNT",
+                "value": "32.43"
+              },
+              {
+                "type": "COINSAMOUNT",
+                "value": "39"
+              }
+            ],
+            "tagDesc": ""
+          },
+          {
+            "tagId": 10012,
+            "tagTitle": "AgentRoom",
+            "tagExtensions": [
+              {
+                "type": "AGENTTYPE",
+                "value": "0"
+              }
+            ],
+            "tagDesc": "This room is offered through one of Trip.com's partners. To facilitate bringing you competitive prices for all room types, Trip.com occasionally works with a number of partners and agents around the world."
+          }
+        ],
+        "tripCoinInfo": {
+          "hover": {
+            "title": "Earn Trip Coins ",
+            "leaveTotalReturn": "Earn a total of 39 Trip Coins after your stay (approx. INR 32.43). ",
+            "leaveItems": [
+              "Earn 39 Trip Coins (approx. INR 32.43) when you book this room type."
+            ],
+            "desc": "Trip Coins can be used to save instantly on room rates."
+          }
+        },
+        "priceInfo": {
+          "price": 3603,
+          "displayPrice": "INR 3,603",
+          "deletePrice": "",
+          "deletePricewithOutCurrency": 0,
+          "currency": "INR",
+          "priceExplanation": "After tax INR 4,036"
+        },
+        "totalPriceInfo": {
+          "isCMA": false,
+          "total": {
+            "title": "Prepay Online",
+            "content": "INR 4,035.69",
+            "localPriceDesc": ""
+          },
+          "quantityDays": {
+            "title": "1 room x 1 night",
+            "content": "INR 3,603.29"
+          },
+          "promotionItems": [],
+          "leaveReturn": {
+            "title": "Receive After Stay",
+            "content": "39 Trip Coins",
+            "convertContent": "39 Trip Coins \u2248 INR 32.43"
+          },
+          "payTax": {
+            "title": "Taxes & fees",
+            "content": "INR 432.40",
+            "items": [
+              {
+                "title": "Goods & Services Tax",
+                "content": "INR 432.40"
+              }
+            ],
+            "price": 432.4
+          },
+          "additionalInfo": "",
+          "veilDiffPriceZeroDesc": "",
+          "tripCoinsInfo": {
+            "title": "{0}Earn 39 Trip Coins{/0} (\u2248INR 32.43)",
+            "content": "Your Trip Coins will be sent to your account after you complete your stay. You can use them to save instantly when you pay online.",
+            "items": [
+              {
+                "subTitle": "",
+                "subContent": [
+                  "For every $100 or equivalent spent, you'll earn 80 Trip Coins."
+                ]
+              }
+            ]
+          },
+          "isFreeCancel": false
+        },
+        "inspireInfo": [
+          {
+            "title": "Only 5 rooms left",
+            "type": "HOLDROOM",
+            "value": "Only 5 rooms left"
+          }
+        ],
+        "rank": "3",
+        "partnerInfo": {
+          "title": "Provided by our partners",
+          "hover": "This room is offered through one of Trip.com's partners. To facilitate bringing you competitive prices for all room types, Trip.com occasionally works with a number of partners and agents around the world."
+        },
+        "roomUniqueKey": "H4sIAAAAAAAAAO1VXWgcVRSeMzObbpdYkyXCGnzYDCoxZCb3zszuzi5Id7NNTETtkqYv0bJMZyfJuNnZycysbl0iJS9iwKrNg9InoX2Q-FeDlJCHVPukqYgEqigqtAiKICjqS0H03tldNlFLQH3svMw995zvO-d8986ZaFcYYhCH_msQvrq-vcNHQY4HC7Rxp3amnGv0vf3d6mQ0NxntO7x1tdGXOwsPHLzgPBj5PD-R7SXeh_Tn3slihj7v17Lpe1_546VnV73sKBf-in0Vfv3mA_FdGLv0y--bZ65nN4D9AoLQ-9_MXoc2-nvYuvD1e_Aae_6jy-Iay6yzzCbbFf7501iMv8KGwt8OxNhtltlhmS9Z5gbL3GS58Oo9yxyzwjHLPPMy3yZaCzGboe6HJ-TCWF7E4oyIBWYojhFCajItayLSZU3GKCWqKUVLyyJWEEorCLTnP9t6q2sCprqwMj6WU2b6I3cddUz7UbNy0nTzVcv2pqy5ed-LwvTJoQh3_NiR3qAN5qfD_dzkY1MDT7x45bfB7ensELVw23LvCEPPC9e4WDkOgx9P1TcOrcCB-ukf7zsN5YsAOxAybfH4sRsA4zeht4ecwyBMQAHmoQ6vA3zIwjLXbdrFmidW7QXLNlc4QOe4T_iG4PiOkMHDgrsgZB5vCIYuZJCEhgXDqLlCRiBVCMQw60JGUySc0FIJYlaKnbhK0SFrJYkUSU637KLtd9zurlCfxqpISUjJZqy_x0uyqIosqcQiyX23ZpJVUAdRitRRcp1mlUbVIxkUTHJiTW1mdS3D3E0ehKiKlNSI0fIqqhbkqrmuaRunCDFlJXGCjGRVRFiUFbLjOKUS1eMEWbZoNSmhLBGbKoEpx7xVEjLphKpqaZVkqFBTQBRM5cBIShFVnd0qOntVJElaORa95hG0pXApF5bpXUvhFOnFdegO8Xitd6Bjq5mOhFQ_JUWOgRbqGUKmIehuqzeEg86MoEzatNlxqMISAQee_e44QfreHrniMsogJSNjYWmNYwv5dU4KQ5QtFOKhoUOtBOSF6ANaaLQnzEe7I5EOwTZ3IMIhGfewP3Bv8ASrjIzoZbEk-a7lGCVbMqqVEauiz5neCCJUs5iSpZ-pueV6RZETeelJZ24fULIWgHRt3kpUF_MaGt8XlNBaIOOU9XSibOVkHIAGmh9sX3YIpjPngdzGku6bf71Bdo1-8UdnR11TL8_q9Cqizu4jNduY37NzxLJtk5wVWhr-O6H6nwhPzGQj_0rSg7m5akmftP2Fmcl9GG6hbzRfdZ2ApVh9ynQ9U_f2obqV6v9EtcJLwQiN0ll5d3t2D7R_KlZ7ei62R-xZHvA5_vbUuz31_s-pd5GHPwEQQ_aa_ggAAA",
+        "roomKey": "1246927179_2_0_1246927179_021_2_",
+        "ruleInfo": {
+          "minQuantity": 1,
+          "maxQuantity": 5
+        },
+        "isStartPriceRoom": true,
+        "isFoldStatus": false,
+        "comparingAmount": 4035.69,
+        "layerInfo": {
+          "token": "ArchiveSwitchOpen_9b3253fe4a5a49429f9d4fe8b2543b6e_100046928-0a282107-473892-130093"
+        },
+        "roomLabelList": [],
+        "roomDescList": [
+          {
+            "type": 1,
+            "text": "Non-refundable",
+            "fontColor": "#455873"
+          },
+          {
+            "type": 2,
+            "text": "Instant Confirmation",
+            "fontColor": "#455873"
+          },
+          {
+            "type": 8,
+            "text": "Only 5 rooms left",
+            "fontColor": "#ee3b28"
+          }
+        ],
+        "isMinPriceRoom": true,
+        "saleRoomCategoryList": [
+          {
+            "title": "Meals not included",
+            "icon": "ic_new_nonbreakfast",
+            "isHightLight": false,
+            "type": "mealInfo",
+            "hover": [
+              "Meals not included"
+            ]
+          },
+          {
+            "title": "Non-refundable",
+            "isHightLight": false,
+            "icon": "ic_new_nonrefundable"
+          },
+          {
+            "title": "Instant Confirmation",
+            "icon": "ic_new_quick",
+            "isHightLight": true,
+            "type": "confirmInfo",
+            "hover": [
+              "Booking will be confirmed instantly after submission."
+            ]
+          },
+          {
+            "title": "Prepay online",
+            "icon": "a-ico_prepayonline",
+            "type": "paymentInfo"
+          }
+        ],
+        "sinkDiscountLabels": []
+      },
+      "1511126328_NPNN80-1-Z-1": {
+        "id": 1511126328,
+        "subHotelId": 95413411,
+        "physicalRoomId": 475254765,
+        "name": "",
+        "shadowId": 0,
+        "roomCode": "NPNN80-1-Z-1",
+        "mealInfo": {
+          "hover": [
+            "Meals not included"
+          ],
+          "mealFlag": 0,
+          "title": "Meals not included"
+        },
+        "confirmInfo": {
+          "type": 1,
+          "title": "Instant Confirmation",
+          "hover": "Booking will be confirmed instantly after submission."
+        },
+        "cancelInfo": {
+          "type": 5,
+          "title": "Non-refundable",
+          "hover": "This booking cannot be modified, and no refund will be given if you cancel it. ",
+          "hotelDateTitle": "Hotel's Local Time",
+          "userDateTitle": "Your Local Time",
+          "ladderDetailInfo": [],
+          "simpleDescList": [
+            {
+              "txt": "Non-refundable",
+              "type": 3
+            },
+            {
+              "txt": "Non-refundable",
+              "type": 4
+            }
+          ],
+          "simpleDesc": "Non-refundable"
+        },
+        "guestCountInfo": {
+          "guestCount": 2,
+          "childCount": 0,
+          "countHover": "",
+          "childTitle": "",
+          "childHover": [],
+          "childType": 0
+        },
+        "isMetaSelected": false,
+        "isRoomIdSelected": false,
+        "isMetaRecommend": false,
+        "isChildPriceRoom": false,
+        "paymentInfo": {
+          "guaranteeType": 0,
+          "type": 0,
+          "subType": 1,
+          "combineType": 2,
+          "subTitle": "Prepay Online",
+          "guranteeAmount": 5717.16,
+          "paymentTitleNew": "Prepay online",
+          "paymentHoverNew": []
+        },
+        "bookingStatusInfo": {
+          "isBooking": true,
+          "isFullRoom": false,
+          "guaranteeText": "",
+          "guaranteeTextHover": "",
+          "buttonType": 1,
+          "isHidePrice": false,
+          "buttonText": "Book",
+          "remainRoomQuantity": 2,
+          "stillBookingButton": "",
+          "toLoginButton": "",
+          "toLoginHover": "",
+          "signInTip": ""
+        },
+        "premiumInfo": {},
+        "filterIds": [
+          "23|2",
+          "7|5",
+          "4|0",
+          "22|666667",
+          "44|1005",
+          "76|2",
+          "23|5",
+          "7|2",
+          "76|1",
+          "76|4",
+          "76|3"
+        ],
+        "discountLabels": [],
+        "tagInfoList": [
+          {
+            "tagId": 90005,
+            "tagTitle": "POINTOFORDER",
+            "tagExtensions": [
+              {
+                "type": "DISPLAYCURRENCY",
+                "value": "INR"
+              },
+              {
+                "type": "DISPLAYAMOUNT",
+                "value": "46.57"
+              },
+              {
+                "type": "COINSAMOUNT",
+                "value": "56"
+              }
+            ],
+            "tagDesc": ""
+          },
+          {
+            "tagId": 10012,
+            "tagTitle": "AgentRoom",
+            "tagExtensions": [
+              {
+                "type": "AGENTTYPE",
+                "value": "0"
+              }
+            ],
+            "tagDesc": "This room is offered through one of Trip.com's partners. To facilitate bringing you competitive prices for all room types, Trip.com occasionally works with a number of partners and agents around the world."
+          }
+        ],
+        "tripCoinInfo": {
+          "hover": {
+            "title": "Earn Trip Coins ",
+            "leaveTotalReturn": "Earn a total of 56 Trip Coins after your stay (approx. INR 46.57). ",
+            "leaveItems": [
+              "Earn 56 Trip Coins (approx. INR 46.57) when you book this room type."
+            ],
+            "desc": "Trip Coins can be used to save instantly on room rates."
+          }
+        },
+        "priceInfo": {
+          "price": 5105,
+          "displayPrice": "INR 5,105",
+          "deletePrice": "",
+          "deletePricewithOutCurrency": 0,
+          "currency": "INR",
+          "priceExplanation": "After tax INR 5,717"
+        },
+        "totalPriceInfo": {
+          "isCMA": false,
+          "total": {
+            "title": "Prepay Online",
+            "content": "INR 5,717.16",
+            "localPriceDesc": ""
+          },
+          "quantityDays": {
+            "title": "1 room x 1 night",
+            "content": "INR 5,104.61"
+          },
+          "promotionItems": [],
+          "leaveReturn": {
+            "title": "Receive After Stay",
+            "content": "56 Trip Coins",
+            "convertContent": "56 Trip Coins \u2248 INR 46.57"
+          },
+          "payTax": {
+            "title": "Taxes & fees",
+            "content": "INR 612.55",
+            "items": [
+              {
+                "title": "Goods & Services Tax",
+                "content": "INR 612.55"
+              }
+            ],
+            "price": 612.55
+          },
+          "additionalInfo": "",
+          "veilDiffPriceZeroDesc": "",
+          "tripCoinsInfo": {
+            "title": "{0}Earn 56 Trip Coins{/0} (\u2248INR 46.57)",
+            "content": "Your Trip Coins will be sent to your account after you complete your stay. You can use them to save instantly when you pay online.",
+            "items": [
+              {
+                "subTitle": "",
+                "subContent": [
+                  "For every $100 or equivalent spent, you'll earn 80 Trip Coins."
+                ]
+              }
+            ]
+          },
+          "isFreeCancel": false
+        },
+        "inspireInfo": [
+          {
+            "title": "Only 2 rooms left",
+            "type": "HOLDROOM",
+            "value": "Only 2 rooms left"
+          }
+        ],
+        "rank": "2",
+        "partnerInfo": {
+          "title": "Provided by our partners",
+          "hover": "This room is offered through one of Trip.com's partners. To facilitate bringing you competitive prices for all room types, Trip.com occasionally works with a number of partners and agents around the world."
+        },
+        "roomUniqueKey": "H4sIAAAAAAAAAO1UT2gcVRifNzO7HZfYpqtCGhE2D8SwZCbvzZ_dmQHpblJKK5qs2-QSW8J0dpqM252dzuyWlRCpwYuBKtaL5GCFetCgoBUlVLC0CLUhUg1oaQ8tDQi1UDCil558b3aHTfQgqMfOZb6_v-_7fu-9L50UQB_IgP4bQFi5d-X7RBrImUhAK7v0N6vF79bWPtZ-2VM8ePXnva-f5Z8qngFDjzD0Qy8Wdh9-6_Ifg5NfFvAH_rOp69deLRjskvDke1_NFUaSwjuvcX38u-D3W5fEz8BHm-unD9--W1gB7A0Q5W9-XrgDYoC74P7Zaxvgffbc1YviMsucZ5kLbFL45jfYx18mwpVbBGuVZdZZ5ibLbLDMA5YTNp9Z4JhFjlngmbf5GGk5wVxI9IyVxsZ0JGJxSsSQyWYwQkjNGbIuIkvWZYzyoppXdEMWsYKQoSCgv_HT158kD4ByUlGM_croVH_qiXHf8V5wakedYLTuemHZnZlthGkwcTSb4iYP7dsdzcH8urefOzhWHog6WJ0oZKmGYy14VAC9p3_k-qoZMLhWbq3sXAQ7WqfuP30KVNdBwvHEyUMbAOx_AHb1koMYBAdACbTAhwB8y4IFrsfxppuhWPeOu56zyAG0xP3Az0G_4UMTD8HgODRfmoO2BU0koSFo280AmpA0AInitKCpKxLW9LxG1Np0N6427RNZw0iVcrijT3uNrjvYEtqIYvM4L-Fc27DNS6rksCxptAap3giaDpGiRghLpJFK4LfbtOshKaGqipSX47KBaztb0aOQHJZ0nSgdr2rIkmFEoIHj2a8QZApLAqGMZFVEWJQVYvH9SoUycoSI7cycLuW1eaJTLjDteNatQNPQVFU3VFKiRlWIaLJFW0MSVom8lUd_O4-kSKfGibB9CDEZAcXCGsZYzikyAQ98aiGesPOPmIyn6bJIKdRkSZdpp6ENzTloBZ3hEI5Gs6M-6dRO16HCeZIcef7phpPMRriNr4yMTKSYMobzyxxbGj3PSQJIs6VSJpHd2SlAfoh-QE-M9Ap8uieV6gKscjtSHJJxL3uP-4IlucrwsFUVK1IjcH274kl2vTbs1qwZJxxGmq64mILZrdbJquYV86Oa9LI_M9B-RI8XsmDCPAfILalYDeevB-s16SscPzYSOFb1mEWvCOpan2969uw2yz7X8xzCIJof-jug-p8Aj0w9l_o3g6YfK87UK9b4SScIHasU1MukrUVeilZJmu6MPfEOG4gXrBtvkRPxqjnDA7zEP1wBD1fA_7wCPuXBnxiYvAwNCAAA",
+        "roomKey": "1511126328_2_0_1511126328_021_2_",
+        "ruleInfo": {
+          "minQuantity": 1,
+          "maxQuantity": 2
+        },
+        "isStartPriceRoom": true,
+        "isFoldStatus": false,
+        "comparingAmount": 5717.16,
+        "layerInfo": {
+          "token": "ArchiveSwitchOpen_d06954dc992449d1aa80e3c23f6417c4_100046928-0a282107-473892-130093"
+        },
+        "roomLabelList": [],
+        "roomDescList": [
+          {
+            "type": 1,
+            "text": "Non-refundable",
+            "fontColor": "#455873"
+          },
+          {
+            "type": 2,
+            "text": "Instant Confirmation",
+            "fontColor": "#455873"
+          },
+          {
+            "type": 8,
+            "text": "Only 2 rooms left",
+            "fontColor": "#ee3b28"
+          }
+        ],
+        "saleRoomCategoryList": [
+          {
+            "title": "Meals not included",
+            "icon": "ic_new_nonbreakfast",
+            "isHightLight": false,
+            "type": "mealInfo",
+            "hover": [
+              "Meals not included"
+            ]
+          },
+          {
+            "title": "Non-refundable",
+            "isHightLight": false,
+            "icon": "ic_new_nonrefundable"
+          },
+          {
+            "title": "Instant Confirmation",
+            "icon": "ic_new_quick",
+            "isHightLight": true,
+            "type": "confirmInfo",
+            "hover": [
+              "Booking will be confirmed instantly after submission."
+            ]
+          },
+          {
+            "title": "Prepay online",
+            "icon": "a-ico_prepayonline",
+            "type": "paymentInfo"
+          }
+        ],
+        "sinkDiscountLabels": []
+      }
+    },
+    "guestCountPerRoom": 0,
+    "trace": {
+      "traceLogId": "100046928-0a282107-473892-130093",
+      "timestamp": "1706011401509",
+      "priceCode": 5076846,
+      "isMeta": false
+    },
+    "trackId": 298638,
+    "isRoomListSoldOut": false,
+    "isCompensatedRoomsSoldOut": true,
+    "roomCount": 3,
+    "hotelExtraInfo": {
+      "healthProtected": {
+        "moduleName": "Health Protected",
+        "cleanScore": 4.7,
+        "scoreLevel": "Very Clean",
+        "healthSurface": {
+          "cleanScoreDesc": "Very Clean 4.7/5",
+          "measureNum": 8
+        },
+        "categoryItems": [
+          {
+            "categoryId": 27,
+            "name": "Health & safety measures",
+            "featureItems": [
+              {
+                "desc": "Staff follow all safety protocals as directed by local authorities"
+              }
+            ]
+          },
+          {
+            "categoryId": 28,
+            "name": "Social distancing",
+            "featureItems": [
+              {
+                "desc": "Social distancing in common areas"
+              },
+              {
+                "desc": "Contactless check-in and check-out"
+              },
+              {
+                "desc": "Cash-free transactions supported for all charges"
+              }
+            ]
+          },
+          {
+            "categoryId": 29,
+            "name": "Cleaning & disinfecting",
+            "featureItems": [
+              {
+                "desc": "Use disinfectant products against COVID-19"
+              },
+              {
+                "desc": "Rooms are disinfected between stays"
+              },
+              {
+                "desc": "Rooms sealed after cleaning"
+              }
+            ]
+          },
+          {
+            "categoryId": 30,
+            "name": "Food & Drink Precautions",
+            "featureItems": [
+              {
+                "desc": "Social distancing in dining areas"
+              }
+            ]
+          }
+        ]
+      },
+      "extras": {
+        "DisplayPrimeTag": "F",
+        "OpenPhysicalSWBW": "",
+        "OpenTagSink": "T"
+      }
+    },
+    "goldenDiscount": "{0}Sign in{/0} or {0}register{/0} to earn up to {0}77 Trip Coins{/0} {0}(approx. INR 64.03){/0} after check-out.",
+    "abResultEntities": [
+      {
+        "key": "230518_IBU_winds",
+        "value": "B"
+      },
+      {
+        "key": "230512_IBU_ETJGO"
+      },
+      {
+        "key": "230418_IBU_Disct",
+        "value": "B"
+      }
+    ],
+    "uniqueId": "122e9913-d77b-4162-8e04-deb72e7f9c93",
+    "fontColor": "labelColor",
+    "ubtExtraInfo": {
+      "dispatchid": "b842c5c5-95e0-4b51-8f14-e50aa53f007d-147",
+      "masterhotelid_token": 95448948,
+      "traceLogID": "100046928-0a282107-473892-130093"
+    },
+    "searchBoxInfo": {
+      "checkIn": "20240123",
+      "checkOut": "20240124",
+      "adult": 2,
+      "childInfoItems": [],
+      "roomQuantity": 1
+    },
+    "roomListAdditionInfo": {
+      "priceType": 0,
+      "rewardType": ""
+    },
+    "otherSupportFilters": [],
+    "selectRooms": {
+      "title": "",
+      "roomCount": 0,
+      "roomList": []
+    }
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1706011401517+800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": ""
+      },
+      {
+        "Id": "TraceLogId",
+        "Value": "100044815-0a1cfa61-473892-31314"
+      },
+      {
+        "Id": "XRequestId",
+        "Value": "2cebfb92-42cb-4ac9-bbd7-a995f67ea74f"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a70c207-473892-146350"
+      }
+    ]
+  }
+}

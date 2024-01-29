@@ -1,0 +1,407 @@
+{
+  "timestamp": "2024-01-24",
+  "otaId": 3,
+  "cityCode": "CTBLR",
+  "ranking": [
+    {
+      "rank": "1",
+      "hotelCode": "1330420"
+    },
+    {
+      "rank": "2",
+      "hotelCode": "1331746"
+    },
+    {
+      "rank": "3",
+      "hotelCode": "1356484"
+    },
+    {
+      "rank": "4",
+      "hotelCode": "1361106"
+    },
+    {
+      "rank": "5",
+      "hotelCode": "1362264"
+    },
+    {
+      "rank": "6",
+      "hotelCode": "159863"
+    },
+    {
+      "rank": "7",
+      "hotelCode": "171443"
+    },
+    {
+      "rank": "8",
+      "hotelCode": "2048354"
+    },
+    {
+      "rank": "9",
+      "hotelCode": "2168288"
+    },
+    {
+      "rank": "10",
+      "hotelCode": "2362764"
+    },
+    {
+      "rank": "11",
+      "hotelCode": "2432410"
+    },
+    {
+      "rank": "12",
+      "hotelCode": "2432450"
+    },
+    {
+      "rank": "13",
+      "hotelCode": "2436374"
+    },
+    {
+      "rank": "14",
+      "hotelCode": "2442292"
+    },
+    {
+      "rank": "15",
+      "hotelCode": "2633370"
+    },
+    {
+      "rank": "16",
+      "hotelCode": "2861580"
+    },
+    {
+      "rank": "17",
+      "hotelCode": "2875372"
+    },
+    {
+      "rank": "18",
+      "hotelCode": "2875508"
+    },
+    {
+      "rank": "19",
+      "hotelCode": "2875532"
+    },
+    {
+      "rank": "20",
+      "hotelCode": "2875588"
+    },
+    {
+      "rank": "21",
+      "hotelCode": "2875884"
+    },
+    {
+      "rank": "22",
+      "hotelCode": "2876266"
+    },
+    {
+      "rank": "23",
+      "hotelCode": "2876424"
+    },
+    {
+      "rank": "24",
+      "hotelCode": "2876680"
+    },
+    {
+      "rank": "25",
+      "hotelCode": "2877442"
+    },
+    {
+      "rank": "26",
+      "hotelCode": "2877562"
+    },
+    {
+      "rank": "27",
+      "hotelCode": "2877572"
+    },
+    {
+      "rank": "28",
+      "hotelCode": "2877840"
+    },
+    {
+      "rank": "29",
+      "hotelCode": "378082"
+    },
+    {
+      "rank": "30",
+      "hotelCode": "386436"
+    },
+    {
+      "rank": "31",
+      "hotelCode": "3911281"
+    },
+    {
+      "rank": "32",
+      "hotelCode": "3911289"
+    },
+    {
+      "rank": "33",
+      "hotelCode": "3912155"
+    },
+    {
+      "rank": "34",
+      "hotelCode": "3912161"
+    },
+    {
+      "rank": "35",
+      "hotelCode": "3913184"
+    },
+    {
+      "rank": "36",
+      "hotelCode": "3914012"
+    },
+    {
+      "rank": "37",
+      "hotelCode": "3914213"
+    },
+    {
+      "rank": "38",
+      "hotelCode": "3915208"
+    },
+    {
+      "rank": "39",
+      "hotelCode": "3922210"
+    },
+    {
+      "rank": "40",
+      "hotelCode": "3922670"
+    },
+    {
+      "rank": "41",
+      "hotelCode": "3923728"
+    },
+    {
+      "rank": "42",
+      "hotelCode": "3925798"
+    },
+    {
+      "rank": "43",
+      "hotelCode": "3927326"
+    },
+    {
+      "rank": "44",
+      "hotelCode": "3928885"
+    },
+    {
+      "rank": "45",
+      "hotelCode": "3930163"
+    },
+    {
+      "rank": "46",
+      "hotelCode": "3930762"
+    },
+    {
+      "rank": "47",
+      "hotelCode": "3931107"
+    },
+    {
+      "rank": "48",
+      "hotelCode": "3934598"
+    },
+    {
+      "rank": "49",
+      "hotelCode": "3934600"
+    },
+    {
+      "rank": "50",
+      "hotelCode": "3934605"
+    },
+    {
+      "rank": "51",
+      "hotelCode": "3934622"
+    },
+    {
+      "rank": "52",
+      "hotelCode": "3934634"
+    },
+    {
+      "rank": "53",
+      "hotelCode": "3934648"
+    },
+    {
+      "rank": "54",
+      "hotelCode": "3943526"
+    },
+    {
+      "rank": "55",
+      "hotelCode": "3946214"
+    },
+    {
+      "rank": "56",
+      "hotelCode": "3946231"
+    },
+    {
+      "rank": "57",
+      "hotelCode": "3946267"
+    },
+    {
+      "rank": "58",
+      "hotelCode": "3946271"
+    },
+    {
+      "rank": "59",
+      "hotelCode": "3946314"
+    },
+    {
+      "rank": "60",
+      "hotelCode": "3946315"
+    },
+    {
+      "rank": "61",
+      "hotelCode": "3946330"
+    },
+    {
+      "rank": "62",
+      "hotelCode": "3946332"
+    },
+    {
+      "rank": "63",
+      "hotelCode": "3946370"
+    },
+    {
+      "rank": "64",
+      "hotelCode": "3973689"
+    },
+    {
+      "rank": "65",
+      "hotelCode": "3973974"
+    },
+    {
+      "rank": "66",
+      "hotelCode": "3980087"
+    },
+    {
+      "rank": "67",
+      "hotelCode": "3980253"
+    },
+    {
+      "rank": "68",
+      "hotelCode": "40187"
+    },
+    {
+      "rank": "69",
+      "hotelCode": "40189"
+    },
+    {
+      "rank": "70",
+      "hotelCode": "40191"
+    },
+    {
+      "rank": "71",
+      "hotelCode": "4027588"
+    },
+    {
+      "rank": "72",
+      "hotelCode": "4051394"
+    },
+    {
+      "rank": "73",
+      "hotelCode": "4052192"
+    },
+    {
+      "rank": "74",
+      "hotelCode": "4064584"
+    },
+    {
+      "rank": "75",
+      "hotelCode": "4064587"
+    },
+    {
+      "rank": "76",
+      "hotelCode": "4064589"
+    },
+    {
+      "rank": "77",
+      "hotelCode": "4064591"
+    },
+    {
+      "rank": "78",
+      "hotelCode": "4064600"
+    },
+    {
+      "rank": "79",
+      "hotelCode": "4064601"
+    },
+    {
+      "rank": "80",
+      "hotelCode": "4064604"
+    },
+    {
+      "rank": "81",
+      "hotelCode": "4064607"
+    },
+    {
+      "rank": "82",
+      "hotelCode": "4064608"
+    },
+    {
+      "rank": "83",
+      "hotelCode": "4064609"
+    },
+    {
+      "rank": "84",
+      "hotelCode": "4064610"
+    },
+    {
+      "rank": "85",
+      "hotelCode": "4064611"
+    },
+    {
+      "rank": "86",
+      "hotelCode": "4064613"
+    },
+    {
+      "rank": "87",
+      "hotelCode": "4064617"
+    },
+    {
+      "rank": "88",
+      "hotelCode": "4064618"
+    },
+    {
+      "rank": "89",
+      "hotelCode": "4064620"
+    },
+    {
+      "rank": "90",
+      "hotelCode": "4064621"
+    },
+    {
+      "rank": "91",
+      "hotelCode": "4064623"
+    },
+    {
+      "rank": "92",
+      "hotelCode": "4064624"
+    },
+    {
+      "rank": "93",
+      "hotelCode": "4064625"
+    },
+    {
+      "rank": "94",
+      "hotelCode": "4064627"
+    },
+    {
+      "rank": "95",
+      "hotelCode": "4064628"
+    },
+    {
+      "rank": "96",
+      "hotelCode": "4064629"
+    },
+    {
+      "rank": "97",
+      "hotelCode": "4064631"
+    },
+    {
+      "rank": "98",
+      "hotelCode": "4064633"
+    },
+    {
+      "rank": "99",
+      "hotelCode": "4064635"
+    },
+    {
+      "rank": "100",
+      "hotelCode": "4064636"
+    }
+  ]
+}

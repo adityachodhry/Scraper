@@ -1,0 +1,1007 @@
+{
+    "timestamp": "2024-01-02 11:16:53.295017+00:00",
+    "otaId": 3,
+    "cityCode": "CTAMD",
+    "ranking": [
+        {
+            "rank": 1,
+            "name": "Treebo Trend Shree Krishna Palace",
+            "OtaPId": "504135",
+            "starCategory": 3,
+            "userRating": 6.3,
+            "numberOfRatings": 26,
+            "discountedPrice": 1986,
+            "distanceFromCenter": "7.2 km from centre"
+        },
+        {
+            "rank": 2,
+            "name": "Treebo Trend Crown",
+            "OtaPId": "6876803",
+            "starCategory": 3,
+            "userRating": 6.2,
+            "numberOfRatings": 53,
+            "discountedPrice": 2301,
+            "distanceFromCenter": "2.5 km from centre"
+        },
+        {
+            "rank": 3,
+            "name": "ARTILLA INN",
+            "OtaPId": "5557710",
+            "starCategory": 4,
+            "userRating": 8.2,
+            "numberOfRatings": 1068,
+            "discountedPrice": 5044,
+            "distanceFromCenter": "0.8 km from centre"
+        },
+        {
+            "rank": 4,
+            "name": "Four Points by Sheraton Ahmedabad",
+            "OtaPId": "265465",
+            "starCategory": 4,
+            "userRating": 8.2,
+            "numberOfRatings": 832,
+            "discountedPrice": 4400,
+            "distanceFromCenter": "1.2 km from centre"
+        },
+        {
+            "rank": 5,
+            "name": "Itsy By Treebo - Aakash",
+            "OtaPId": "7262068",
+            "starCategory": 3,
+            "userRating": 5.2,
+            "numberOfRatings": 79,
+            "discountedPrice": 1442,
+            "distanceFromCenter": "2.6 km from centre"
+        },
+        {
+            "rank": 6,
+            "name": "Holiday Inn Express Ahmedabad Prahlad Nagar, an IHG Hotel",
+            "OtaPId": "451871",
+            "starCategory": 4,
+            "userRating": 7.2,
+            "numberOfRatings": 1025,
+            "discountedPrice": 4199,
+            "distanceFromCenter": "7.2 km from centre"
+        },
+        {
+            "rank": 7,
+            "name": "Courtyard by Marriott Ahmedabad Sindhu Bhavan Road",
+            "OtaPId": "6909006",
+            "starCategory": 5,
+            "userRating": 8.0,
+            "numberOfRatings": 511,
+            "discountedPrice": 5650,
+            "distanceFromCenter": "8 km from centre"
+        },
+        {
+            "rank": 8,
+            "name": "Courtyard by Marriott Ahmedabad",
+            "OtaPId": "242914",
+            "starCategory": 5,
+            "userRating": 8.5,
+            "numberOfRatings": 769,
+            "discountedPrice": 6300,
+            "distanceFromCenter": "6.9 km from centre"
+        },
+        {
+            "rank": 9,
+            "name": "Terrazzo Suits",
+            "OtaPId": "9402908",
+            "starCategory": 3,
+            "userRating": 6.8,
+            "numberOfRatings": 70,
+            "discountedPrice": 2111,
+            "distanceFromCenter": "10.3 km from centre"
+        },
+        {
+            "rank": 10,
+            "name": "Novotel Ahmedabad",
+            "OtaPId": "699916",
+            "starCategory": 5,
+            "userRating": 8.0,
+            "numberOfRatings": 2666,
+            "discountedPrice": 5398,
+            "distanceFromCenter": "7.4 km from centre"
+        },
+        {
+            "rank": 11,
+            "name": "Hotel Elysian Residency",
+            "OtaPId": "7167074",
+            "starCategory": 3,
+            "userRating": 7.9,
+            "numberOfRatings": 539,
+            "discountedPrice": 5002,
+            "distanceFromCenter": "2.7 km from centre"
+        },
+        {
+            "rank": 12,
+            "name": "Hyatt Regency Ahmedabad",
+            "OtaPId": "1312527",
+            "starCategory": 5,
+            "userRating": 8.3,
+            "numberOfRatings": 1226,
+            "discountedPrice": 8500,
+            "distanceFromCenter": "2.6 km from centre"
+        },
+        {
+            "rank": 13,
+            "name": "Ginger Ahmedabad RTO Circle",
+            "OtaPId": "8977982",
+            "starCategory": 4,
+            "userRating": 6.1,
+            "numberOfRatings": 269,
+            "discountedPrice": 2999,
+            "distanceFromCenter": "5.2 km from centre"
+        },
+        {
+            "rank": 15,
+            "name": "Renaissance Ahmedabad Hotel",
+            "OtaPId": "794447",
+            "starCategory": 5,
+            "userRating": 8.3,
+            "numberOfRatings": 566,
+            "discountedPrice": 5400,
+            "distanceFromCenter": "8.1 km from centre"
+        },
+        {
+            "rank": 16,
+            "name": "Taj Skyline Ahmedabad",
+            "OtaPId": "6877669",
+            "starCategory": 5,
+            "userRating": 8.2,
+            "numberOfRatings": 997,
+            "discountedPrice": 6750,
+            "distanceFromCenter": "10.3 km from centre"
+        },
+        {
+            "rank": 17,
+            "name": "Vivanta Ahmedabad SG Highway",
+            "OtaPId": "628960",
+            "starCategory": 5,
+            "userRating": 8.4,
+            "numberOfRatings": 307,
+            "discountedPrice": 6699,
+            "distanceFromCenter": "8.9 km from centre"
+        },
+        {
+            "rank": 20,
+            "name": "Radisson Blu Hotel Ahmedabad",
+            "OtaPId": "632839",
+            "starCategory": 5,
+            "userRating": 8.2,
+            "numberOfRatings": 1466,
+            "discountedPrice": 7199,
+            "distanceFromCenter": "2.3 km from centre"
+        },
+        {
+            "rank": 21,
+            "name": "DoubleTree by Hilton Ahmedabad",
+            "OtaPId": "4309893",
+            "starCategory": 5,
+            "userRating": 8.2,
+            "numberOfRatings": 842,
+            "discountedPrice": 5250,
+            "distanceFromCenter": "8 km from centre"
+        },
+        {
+            "rank": 22,
+            "name": "Hotel Nice Inn Ahmedabad",
+            "OtaPId": "11097816",
+            "starCategory": 4,
+            "userRating": "-",
+            "numberOfRatings": null,
+            "discountedPrice": 8999,
+            "distanceFromCenter": "300 m from centre"
+        },
+        {
+            "rank": 23,
+            "name": "Hyatt Ahmedabad",
+            "OtaPId": "455256",
+            "starCategory": 5,
+            "userRating": 7.9,
+            "numberOfRatings": 882,
+            "discountedPrice": 8700,
+            "distanceFromCenter": "5.3 km from centre"
+        },
+        {
+            "rank": 24,
+            "name": "Hotel Gitanjali",
+            "OtaPId": "10570954",
+            "starCategory": 2,
+            "userRating": 6.4,
+            "numberOfRatings": 54,
+            "discountedPrice": 854,
+            "distanceFromCenter": "1.6 km from centre"
+        },
+        {
+            "rank": 25,
+            "name": "Fairfield by Marriott Ahmedabad",
+            "OtaPId": "449411",
+            "starCategory": 4,
+            "userRating": 7.0,
+            "numberOfRatings": 577,
+            "discountedPrice": 4300,
+            "distanceFromCenter": "3.5 km from centre"
+        },
+        {
+            "rank": 26,
+            "name": "Treebo Trend Shree Krishna Palace",
+            "OtaPId": "504135",
+            "starCategory": 3,
+            "userRating": 6.3,
+            "numberOfRatings": 26,
+            "discountedPrice": 1986,
+            "distanceFromCenter": "7.2 km from centre"
+        },
+        {
+            "rank": 27,
+            "name": "Treebo Trend Crown",
+            "OtaPId": "6876803",
+            "starCategory": 3,
+            "userRating": 6.2,
+            "numberOfRatings": 53,
+            "discountedPrice": 2301,
+            "distanceFromCenter": "2.5 km from centre"
+        },
+        {
+            "rank": 28,
+            "name": "ARTILLA INN",
+            "OtaPId": "5557710",
+            "starCategory": 4,
+            "userRating": 8.2,
+            "numberOfRatings": 1068,
+            "discountedPrice": 5044,
+            "distanceFromCenter": "0.8 km from centre"
+        },
+        {
+            "rank": 29,
+            "name": "Four Points by Sheraton Ahmedabad",
+            "OtaPId": "265465",
+            "starCategory": 4,
+            "userRating": 8.2,
+            "numberOfRatings": 832,
+            "discountedPrice": 4400,
+            "distanceFromCenter": "1.2 km from centre"
+        },
+        {
+            "rank": 30,
+            "name": "Itsy By Treebo - Aakash",
+            "OtaPId": "7262068",
+            "starCategory": 3,
+            "userRating": 5.2,
+            "numberOfRatings": 79,
+            "discountedPrice": 1442,
+            "distanceFromCenter": "2.6 km from centre"
+        },
+        {
+            "rank": 31,
+            "name": "Holiday Inn Express Ahmedabad Prahlad Nagar, an IHG Hotel",
+            "OtaPId": "451871",
+            "starCategory": 4,
+            "userRating": 7.2,
+            "numberOfRatings": 1025,
+            "discountedPrice": 4199,
+            "distanceFromCenter": "7.2 km from centre"
+        },
+        {
+            "rank": 32,
+            "name": "Courtyard by Marriott Ahmedabad Sindhu Bhavan Road",
+            "OtaPId": "6909006",
+            "starCategory": 5,
+            "userRating": 8.0,
+            "numberOfRatings": 511,
+            "discountedPrice": 5650,
+            "distanceFromCenter": "8 km from centre"
+        },
+        {
+            "rank": 33,
+            "name": "Courtyard by Marriott Ahmedabad",
+            "OtaPId": "242914",
+            "starCategory": 5,
+            "userRating": 8.5,
+            "numberOfRatings": 769,
+            "discountedPrice": 6300,
+            "distanceFromCenter": "6.9 km from centre"
+        },
+        {
+            "rank": 34,
+            "name": "Terrazzo Suits",
+            "OtaPId": "9402908",
+            "starCategory": 3,
+            "userRating": 6.8,
+            "numberOfRatings": 70,
+            "discountedPrice": 2111,
+            "distanceFromCenter": "10.3 km from centre"
+        },
+        {
+            "rank": 35,
+            "name": "Novotel Ahmedabad",
+            "OtaPId": "699916",
+            "starCategory": 5,
+            "userRating": 8.0,
+            "numberOfRatings": 2666,
+            "discountedPrice": 5398,
+            "distanceFromCenter": "7.4 km from centre"
+        },
+        {
+            "rank": 36,
+            "name": "Hotel Elysian Residency",
+            "OtaPId": "7167074",
+            "starCategory": 3,
+            "userRating": 7.9,
+            "numberOfRatings": 539,
+            "discountedPrice": 5002,
+            "distanceFromCenter": "2.7 km from centre"
+        },
+        {
+            "rank": 37,
+            "name": "Hyatt Regency Ahmedabad",
+            "OtaPId": "1312527",
+            "starCategory": 5,
+            "userRating": 8.3,
+            "numberOfRatings": 1226,
+            "discountedPrice": 8500,
+            "distanceFromCenter": "2.6 km from centre"
+        },
+        {
+            "rank": 38,
+            "name": "Ginger Ahmedabad RTO Circle",
+            "OtaPId": "8977982",
+            "starCategory": 4,
+            "userRating": 6.1,
+            "numberOfRatings": 269,
+            "discountedPrice": 2999,
+            "distanceFromCenter": "5.2 km from centre"
+        },
+        {
+            "rank": 40,
+            "name": "Renaissance Ahmedabad Hotel",
+            "OtaPId": "794447",
+            "starCategory": 5,
+            "userRating": 8.3,
+            "numberOfRatings": 566,
+            "discountedPrice": 5400,
+            "distanceFromCenter": "8.1 km from centre"
+        },
+        {
+            "rank": 41,
+            "name": "Taj Skyline Ahmedabad",
+            "OtaPId": "6877669",
+            "starCategory": 5,
+            "userRating": 8.2,
+            "numberOfRatings": 997,
+            "discountedPrice": 6750,
+            "distanceFromCenter": "10.3 km from centre"
+        },
+        {
+            "rank": 42,
+            "name": "Vivanta Ahmedabad SG Highway",
+            "OtaPId": "628960",
+            "starCategory": 5,
+            "userRating": 8.4,
+            "numberOfRatings": 307,
+            "discountedPrice": 6699,
+            "distanceFromCenter": "8.9 km from centre"
+        },
+        {
+            "rank": 45,
+            "name": "Hotel Sigma",
+            "OtaPId": "11116245",
+            "starCategory": 2,
+            "userRating": "-",
+            "numberOfRatings": null,
+            "discountedPrice": 2000,
+            "distanceFromCenter": "8.8 km from centre"
+        },
+        {
+            "rank": 46,
+            "name": "Radisson Blu Hotel Ahmedabad",
+            "OtaPId": "632839",
+            "starCategory": 5,
+            "userRating": 8.2,
+            "numberOfRatings": 1466,
+            "discountedPrice": 7199,
+            "distanceFromCenter": "2.3 km from centre"
+        },
+        {
+            "rank": 47,
+            "name": "DoubleTree by Hilton Ahmedabad",
+            "OtaPId": "4309893",
+            "starCategory": 5,
+            "userRating": 8.2,
+            "numberOfRatings": 842,
+            "discountedPrice": 5250,
+            "distanceFromCenter": "8 km from centre"
+        },
+        {
+            "rank": 48,
+            "name": "Hyatt Ahmedabad",
+            "OtaPId": "455256",
+            "starCategory": 5,
+            "userRating": 7.9,
+            "numberOfRatings": 882,
+            "discountedPrice": 8700,
+            "distanceFromCenter": "5.3 km from centre"
+        },
+        {
+            "rank": 49,
+            "name": "Hotel Gitanjali",
+            "OtaPId": "10570954",
+            "starCategory": 2,
+            "userRating": 6.4,
+            "numberOfRatings": 54,
+            "discountedPrice": 854,
+            "distanceFromCenter": "1.6 km from centre"
+        },
+        {
+            "rank": 50,
+            "name": "Fairfield by Marriott Ahmedabad",
+            "OtaPId": "449411",
+            "starCategory": 4,
+            "userRating": 7.0,
+            "numberOfRatings": 577,
+            "discountedPrice": 4300,
+            "distanceFromCenter": "3.5 km from centre"
+        },
+        {
+            "rank": 51,
+            "name": "Treebo Trend Shree Krishna Palace",
+            "OtaPId": "504135",
+            "starCategory": 3,
+            "userRating": 6.3,
+            "numberOfRatings": 26,
+            "discountedPrice": 1986,
+            "distanceFromCenter": "7.2 km from centre"
+        },
+        {
+            "rank": 52,
+            "name": "Treebo Trend Crown",
+            "OtaPId": "6876803",
+            "starCategory": 3,
+            "userRating": 6.2,
+            "numberOfRatings": 53,
+            "discountedPrice": 2301,
+            "distanceFromCenter": "2.5 km from centre"
+        },
+        {
+            "rank": 53,
+            "name": "ARTILLA INN",
+            "OtaPId": "5557710",
+            "starCategory": 4,
+            "userRating": 8.2,
+            "numberOfRatings": 1068,
+            "discountedPrice": 5044,
+            "distanceFromCenter": "0.8 km from centre"
+        },
+        {
+            "rank": 54,
+            "name": "Four Points by Sheraton Ahmedabad",
+            "OtaPId": "265465",
+            "starCategory": 4,
+            "userRating": 8.2,
+            "numberOfRatings": 832,
+            "discountedPrice": 4400,
+            "distanceFromCenter": "1.2 km from centre"
+        },
+        {
+            "rank": 55,
+            "name": "Itsy By Treebo - Aakash",
+            "OtaPId": "7262068",
+            "starCategory": 3,
+            "userRating": 5.2,
+            "numberOfRatings": 79,
+            "discountedPrice": 1442,
+            "distanceFromCenter": "2.6 km from centre"
+        },
+        {
+            "rank": 56,
+            "name": "Holiday Inn Express Ahmedabad Prahlad Nagar, an IHG Hotel",
+            "OtaPId": "451871",
+            "starCategory": 4,
+            "userRating": 7.2,
+            "numberOfRatings": 1025,
+            "discountedPrice": 4199,
+            "distanceFromCenter": "7.2 km from centre"
+        },
+        {
+            "rank": 57,
+            "name": "Courtyard by Marriott Ahmedabad Sindhu Bhavan Road",
+            "OtaPId": "6909006",
+            "starCategory": 5,
+            "userRating": 8.0,
+            "numberOfRatings": 511,
+            "discountedPrice": 5650,
+            "distanceFromCenter": "8 km from centre"
+        },
+        {
+            "rank": 58,
+            "name": "Courtyard by Marriott Ahmedabad",
+            "OtaPId": "242914",
+            "starCategory": 5,
+            "userRating": 8.5,
+            "numberOfRatings": 769,
+            "discountedPrice": 6300,
+            "distanceFromCenter": "6.9 km from centre"
+        },
+        {
+            "rank": 59,
+            "name": "Terrazzo Suits",
+            "OtaPId": "9402908",
+            "starCategory": 3,
+            "userRating": 6.8,
+            "numberOfRatings": 70,
+            "discountedPrice": 2111,
+            "distanceFromCenter": "10.3 km from centre"
+        },
+        {
+            "rank": 60,
+            "name": "Novotel Ahmedabad",
+            "OtaPId": "699916",
+            "starCategory": 5,
+            "userRating": 8.0,
+            "numberOfRatings": 2666,
+            "discountedPrice": 5398,
+            "distanceFromCenter": "7.4 km from centre"
+        },
+        {
+            "rank": 61,
+            "name": "Hotel Elysian Residency",
+            "OtaPId": "7167074",
+            "starCategory": 3,
+            "userRating": 7.9,
+            "numberOfRatings": 539,
+            "discountedPrice": 5002,
+            "distanceFromCenter": "2.7 km from centre"
+        },
+        {
+            "rank": 62,
+            "name": "Hyatt Regency Ahmedabad",
+            "OtaPId": "1312527",
+            "starCategory": 5,
+            "userRating": 8.3,
+            "numberOfRatings": 1226,
+            "discountedPrice": 8500,
+            "distanceFromCenter": "2.6 km from centre"
+        },
+        {
+            "rank": 63,
+            "name": "Ginger Ahmedabad RTO Circle",
+            "OtaPId": "8977982",
+            "starCategory": 4,
+            "userRating": 6.1,
+            "numberOfRatings": 269,
+            "discountedPrice": 2999,
+            "distanceFromCenter": "5.2 km from centre"
+        },
+        {
+            "rank": 65,
+            "name": "Renaissance Ahmedabad Hotel",
+            "OtaPId": "794447",
+            "starCategory": 5,
+            "userRating": 8.3,
+            "numberOfRatings": 566,
+            "discountedPrice": 5400,
+            "distanceFromCenter": "8.1 km from centre"
+        },
+        {
+            "rank": 66,
+            "name": "Taj Skyline Ahmedabad",
+            "OtaPId": "6877669",
+            "starCategory": 5,
+            "userRating": 8.2,
+            "numberOfRatings": 997,
+            "discountedPrice": 6750,
+            "distanceFromCenter": "10.3 km from centre"
+        },
+        {
+            "rank": 67,
+            "name": "Vivanta Ahmedabad SG Highway",
+            "OtaPId": "628960",
+            "starCategory": 5,
+            "userRating": 8.4,
+            "numberOfRatings": 307,
+            "discountedPrice": 6699,
+            "distanceFromCenter": "8.9 km from centre"
+        },
+        {
+            "rank": 70,
+            "name": "Hotel Sigma",
+            "OtaPId": "11116245",
+            "starCategory": 2,
+            "userRating": "-",
+            "numberOfRatings": null,
+            "discountedPrice": 2000,
+            "distanceFromCenter": "8.8 km from centre"
+        },
+        {
+            "rank": 71,
+            "name": "Radisson Blu Hotel Ahmedabad",
+            "OtaPId": "632839",
+            "starCategory": 5,
+            "userRating": 8.2,
+            "numberOfRatings": 1466,
+            "discountedPrice": 7199,
+            "distanceFromCenter": "2.3 km from centre"
+        },
+        {
+            "rank": 72,
+            "name": "DoubleTree by Hilton Ahmedabad",
+            "OtaPId": "4309893",
+            "starCategory": 5,
+            "userRating": 8.2,
+            "numberOfRatings": 842,
+            "discountedPrice": 5250,
+            "distanceFromCenter": "8 km from centre"
+        },
+        {
+            "rank": 73,
+            "name": "Hyatt Ahmedabad",
+            "OtaPId": "455256",
+            "starCategory": 5,
+            "userRating": 7.9,
+            "numberOfRatings": 882,
+            "discountedPrice": 8700,
+            "distanceFromCenter": "5.3 km from centre"
+        },
+        {
+            "rank": 74,
+            "name": "Hotel Gitanjali",
+            "OtaPId": "10570954",
+            "starCategory": 2,
+            "userRating": 6.4,
+            "numberOfRatings": 54,
+            "discountedPrice": 854,
+            "distanceFromCenter": "1.6 km from centre"
+        },
+        {
+            "rank": 75,
+            "name": "Fairfield by Marriott Ahmedabad",
+            "OtaPId": "449411",
+            "starCategory": 4,
+            "userRating": 7.0,
+            "numberOfRatings": 577,
+            "discountedPrice": 4300,
+            "distanceFromCenter": "3.5 km from centre"
+        },
+        {
+            "rank": 76,
+            "name": "Fortune Select SG Highway, Ahmedabad - Member ITC's Hotel Group",
+            "OtaPId": "350288",
+            "starCategory": 5,
+            "userRating": 7.7,
+            "numberOfRatings": 334,
+            "discountedPrice": 5500,
+            "distanceFromCenter": "7.6 km from centre"
+        },
+        {
+            "rank": 77,
+            "name": "Comfort Inn Sunset",
+            "OtaPId": "292812",
+            "starCategory": 3,
+            "userRating": 7.1,
+            "numberOfRatings": 318,
+            "discountedPrice": 5500,
+            "distanceFromCenter": "7.6 km from centre"
+        },
+        {
+            "rank": 78,
+            "name": "ITC Narmada, a Luxury Collection Hotel, Ahmedabad",
+            "OtaPId": "8639802",
+            "starCategory": 5,
+            "userRating": 8.9,
+            "numberOfRatings": 382,
+            "discountedPrice": 10000,
+            "distanceFromCenter": "5.2 km from centre"
+        },
+        {
+            "rank": 79,
+            "name": "Keys Select by Lemon Tree Hotels, Gandhi Ashram, Ahmedabad",
+            "OtaPId": "4086809",
+            "starCategory": 4,
+            "userRating": 7.0,
+            "numberOfRatings": 245,
+            "discountedPrice": 3059,
+            "distanceFromCenter": "4.6 km from centre"
+        },
+        {
+            "rank": 80,
+            "name": "Sarovar Portico Kalupur Ahmedabad",
+            "OtaPId": "496602",
+            "starCategory": 3,
+            "userRating": 7.4,
+            "numberOfRatings": 479,
+            "discountedPrice": 5000,
+            "distanceFromCenter": "2.2 km from centre"
+        },
+        {
+            "rank": 81,
+            "name": "Hotel Good Night",
+            "OtaPId": "538424",
+            "starCategory": 2,
+            "userRating": 7.8,
+            "numberOfRatings": 222,
+            "discountedPrice": 2275,
+            "distanceFromCenter": "0.6 km from centre"
+        },
+        {
+            "rank": 82,
+            "name": "3 BY OYO Nami Residency Ahmedabad",
+            "OtaPId": "427332",
+            "starCategory": 3,
+            "userRating": 7.6,
+            "numberOfRatings": 325,
+            "discountedPrice": 3304,
+            "distanceFromCenter": "1 km from centre"
+        },
+        {
+            "rank": 84,
+            "name": "Treebo Trend The Square",
+            "OtaPId": "8178919",
+            "starCategory": 4,
+            "userRating": 7.0,
+            "numberOfRatings": 39,
+            "discountedPrice": 2071,
+            "distanceFromCenter": "9.1 km from centre"
+        },
+        {
+            "rank": 85,
+            "name": "Crowne Plaza Ahmedabad City Centre, an IHG Hotel",
+            "OtaPId": "875809",
+            "starCategory": 5,
+            "userRating": 8.2,
+            "numberOfRatings": 759,
+            "discountedPrice": 6499,
+            "distanceFromCenter": "7.8 km from centre"
+        },
+        {
+            "rank": 87,
+            "name": "The Ummed Ahmedabad Airport",
+            "OtaPId": "74733",
+            "starCategory": 5,
+            "userRating": 7.1,
+            "numberOfRatings": 670,
+            "discountedPrice": 6874,
+            "distanceFromCenter": "7.7 km from centre"
+        },
+        {
+            "rank": 90,
+            "name": "The Cama - A Sabarmati Riverfront Hotel",
+            "OtaPId": "320907",
+            "starCategory": 4,
+            "userRating": 7.4,
+            "numberOfRatings": 66,
+            "discountedPrice": 4040,
+            "distanceFromCenter": "1.2 km from centre"
+        },
+        {
+            "rank": 91,
+            "name": "HOTEL LEEGRAND INN",
+            "OtaPId": "10994432",
+            "starCategory": 4,
+            "userRating": 7.8,
+            "numberOfRatings": 8,
+            "discountedPrice": 1422,
+            "distanceFromCenter": "10.3 km from centre"
+        },
+        {
+            "rank": 93,
+            "name": "Hotel Milan",
+            "OtaPId": "2808444",
+            "starCategory": 0,
+            "userRating": 8.8,
+            "numberOfRatings": 96,
+            "discountedPrice": 999,
+            "distanceFromCenter": "9.5 km from centre"
+        },
+        {
+            "rank": 95,
+            "name": "Marshall The Hotel",
+            "OtaPId": "8923809",
+            "starCategory": 3,
+            "userRating": 6.7,
+            "numberOfRatings": 42,
+            "discountedPrice": 2639,
+            "distanceFromCenter": "2.2 km from centre"
+        },
+        {
+            "rank": 96,
+            "name": "Collection O Hotel Atithi Palace",
+            "OtaPId": "11243263",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": null,
+            "discountedPrice": 1005,
+            "distanceFromCenter": "8.2 km from centre"
+        },
+        {
+            "rank": 97,
+            "name": "HOTEL ASIANA SKY Motera Ahmedabad",
+            "OtaPId": "10839616",
+            "starCategory": 2,
+            "userRating": 9.2,
+            "numberOfRatings": 28,
+            "discountedPrice": 1452,
+            "distanceFromCenter": "10.2 km from centre"
+        },
+        {
+            "rank": 100,
+            "name": "Super Inn Armoise Hotel",
+            "OtaPId": "1837291",
+            "starCategory": 3,
+            "userRating": 7.1,
+            "numberOfRatings": 109,
+            "discountedPrice": 3000,
+            "distanceFromCenter": "2.2 km from centre"
+        },
+        {
+            "rank": 101,
+            "name": "Fortune Select SG Highway, Ahmedabad - Member ITC's Hotel Group",
+            "OtaPId": "350288",
+            "starCategory": 5,
+            "userRating": 7.7,
+            "numberOfRatings": 334,
+            "discountedPrice": 5500,
+            "distanceFromCenter": "7.6 km from centre"
+        },
+        {
+            "rank": 102,
+            "name": "Comfort Inn Sunset",
+            "OtaPId": "292812",
+            "starCategory": 3,
+            "userRating": 7.1,
+            "numberOfRatings": 318,
+            "discountedPrice": 5500,
+            "distanceFromCenter": "7.6 km from centre"
+        },
+        {
+            "rank": 103,
+            "name": "ITC Narmada, a Luxury Collection Hotel, Ahmedabad",
+            "OtaPId": "8639802",
+            "starCategory": 5,
+            "userRating": 8.9,
+            "numberOfRatings": 382,
+            "discountedPrice": 10000,
+            "distanceFromCenter": "5.2 km from centre"
+        },
+        {
+            "rank": 104,
+            "name": "Keys Select by Lemon Tree Hotels, Gandhi Ashram, Ahmedabad",
+            "OtaPId": "4086809",
+            "starCategory": 4,
+            "userRating": 7.0,
+            "numberOfRatings": 245,
+            "discountedPrice": 3059,
+            "distanceFromCenter": "4.6 km from centre"
+        },
+        {
+            "rank": 105,
+            "name": "Sarovar Portico Kalupur Ahmedabad",
+            "OtaPId": "496602",
+            "starCategory": 3,
+            "userRating": 7.4,
+            "numberOfRatings": 479,
+            "discountedPrice": 5000,
+            "distanceFromCenter": "2.2 km from centre"
+        },
+        {
+            "rank": 106,
+            "name": "Hotel Good Night",
+            "OtaPId": "538424",
+            "starCategory": 2,
+            "userRating": 7.8,
+            "numberOfRatings": 222,
+            "discountedPrice": 2275,
+            "distanceFromCenter": "0.6 km from centre"
+        },
+        {
+            "rank": 107,
+            "name": "3 BY OYO Nami Residency Ahmedabad",
+            "OtaPId": "427332",
+            "starCategory": 3,
+            "userRating": 7.6,
+            "numberOfRatings": 325,
+            "discountedPrice": 3304,
+            "distanceFromCenter": "1 km from centre"
+        },
+        {
+            "rank": 109,
+            "name": "Treebo Trend The Square",
+            "OtaPId": "8178919",
+            "starCategory": 4,
+            "userRating": 7.0,
+            "numberOfRatings": 39,
+            "discountedPrice": 2071,
+            "distanceFromCenter": "9.1 km from centre"
+        },
+        {
+            "rank": 110,
+            "name": "Crowne Plaza Ahmedabad City Centre, an IHG Hotel",
+            "OtaPId": "875809",
+            "starCategory": 5,
+            "userRating": 8.2,
+            "numberOfRatings": 759,
+            "discountedPrice": 6499,
+            "distanceFromCenter": "7.8 km from centre"
+        },
+        {
+            "rank": 112,
+            "name": "The Ummed Ahmedabad Airport",
+            "OtaPId": "74733",
+            "starCategory": 5,
+            "userRating": 7.1,
+            "numberOfRatings": 670,
+            "discountedPrice": 6874,
+            "distanceFromCenter": "7.7 km from centre"
+        },
+        {
+            "rank": 115,
+            "name": "The Cama - A Sabarmati Riverfront Hotel",
+            "OtaPId": "320907",
+            "starCategory": 4,
+            "userRating": 7.4,
+            "numberOfRatings": 66,
+            "discountedPrice": 4040,
+            "distanceFromCenter": "1.2 km from centre"
+        },
+        {
+            "rank": 116,
+            "name": "HOTEL LEEGRAND INN",
+            "OtaPId": "10994432",
+            "starCategory": 4,
+            "userRating": 7.8,
+            "numberOfRatings": 8,
+            "discountedPrice": 1422,
+            "distanceFromCenter": "10.3 km from centre"
+        },
+        {
+            "rank": 118,
+            "name": "Hotel Milan",
+            "OtaPId": "2808444",
+            "starCategory": 0,
+            "userRating": 8.8,
+            "numberOfRatings": 96,
+            "discountedPrice": 999,
+            "distanceFromCenter": "9.5 km from centre"
+        },
+        {
+            "rank": 120,
+            "name": "Marshall The Hotel",
+            "OtaPId": "8923809",
+            "starCategory": 3,
+            "userRating": 6.7,
+            "numberOfRatings": 42,
+            "discountedPrice": 2639,
+            "distanceFromCenter": "2.2 km from centre"
+        },
+        {
+            "rank": 121,
+            "name": "Collection O Hotel Atithi Palace",
+            "OtaPId": "11243263",
+            "starCategory": 3,
+            "userRating": "-",
+            "numberOfRatings": null,
+            "discountedPrice": 1005,
+            "distanceFromCenter": "8.2 km from centre"
+        },
+        {
+            "rank": 122,
+            "name": "HOTEL ASIANA SKY Motera Ahmedabad",
+            "OtaPId": "10839616",
+            "starCategory": 2,
+            "userRating": 9.2,
+            "numberOfRatings": 28,
+            "discountedPrice": 1452,
+            "distanceFromCenter": "10.2 km from centre"
+        },
+        {
+            "rank": 125,
+            "name": "Super Inn Armoise Hotel",
+            "OtaPId": "1837291",
+            "starCategory": 3,
+            "userRating": 7.1,
+            "numberOfRatings": 109,
+            "discountedPrice": 3000,
+            "distanceFromCenter": "2.2 km from centre"
+        }
+    ]
+}

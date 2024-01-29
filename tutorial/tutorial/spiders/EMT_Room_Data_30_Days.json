@@ -1,0 +1,50 @@
+[
+  {
+    "Hotel_Id": "3196696",
+    "Room_Name": "Play Premium",
+    "Room_Plan": "CP",
+    "Room_Rates": "3604\n+ 503 Taxes & fees\n(Per Night)",
+    "Checkin": "05/01/2024",
+    "Checkout": "06/01/2024"
+  },
+  {
+    "Hotel_Id": "3196696",
+    "Room_Name": "Play Deluxe",
+    "Room_Plan": "CP",
+    "Room_Rates": "4073\n+ 569 Taxes & fees\n(Per Night)",
+    "Checkin": "05/01/2024",
+    "Checkout": "06/01/2024"
+  },
+  {
+    "Hotel_Id": "3196696",
+    "Room_Name": "Play Deluxe",
+    "Room_Plan": "CP",
+    "Room_Rates": "3604\n+ 503 Taxes & fees\n(Per Night)",
+    "Checkin": "06/01/2024",
+    "Checkout": "07/01/2024"
+  },
+  {
+    "Hotel_Id": "3196696",
+    "Room_Name": "Play Premium",
+    "Room_Plan": "CP",
+    "Room_Rates": "3604\n+ 503 Taxes & fees\n(Per Night)",
+    "Checkin": "06/01/2024",
+    "Checkout": "07/01/2024"
+  },
+  {
+    "Hotel_Id": "3196696",
+    "Room_Name": "Play Deluxe",
+    "Room_Plan": "CP",
+    "Room_Rates": "3917\n+ 547 Taxes & fees\n(Per Night)",
+    "Checkin": "07/01/2024",
+    "Checkout": "08/01/2024"
+  },
+  {
+    "Hotel_Id": "3196696",
+    "Room_Name": "Play Premium",
+    "Room_Plan": "CP",
+    "Room_Rates": "3917\n+ 547 Taxes & fees\n(Per Night)",
+    "Checkin": "07/01/2024",
+    "Checkout": "08/01/2024"
+  }
+]

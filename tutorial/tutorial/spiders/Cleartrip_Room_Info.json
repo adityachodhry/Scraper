@@ -1,0 +1,70 @@
+{
+  "otaId": 1,
+  "timestamp": "2024-01-22",
+  "rates": [
+    {
+      "roomID": "290266",
+      "checkin": "2024-01-22",
+      "checkout": "2024-01-23",
+      "roomName": "Deluxe Room",
+      "roomPlan": "EP",
+      "price": 8042.66
+    },
+    {
+      "roomID": "290266",
+      "checkin": "2024-01-22",
+      "checkout": "2024-01-23",
+      "roomName": "Deluxe Room",
+      "roomPlan": "CP",
+      "price": 9182.66
+    },
+    {
+      "roomID": "290266",
+      "checkin": "2024-01-22",
+      "checkout": "2024-01-23",
+      "roomName": "Deluxe Room",
+      "roomPlan": "MAP",
+      "price": 10132.66
+    },
+    {
+      "roomID": "290266",
+      "checkin": "2024-01-22",
+      "checkout": "2024-01-23",
+      "roomName": "Deluxe Room",
+      "roomPlan": "AP",
+      "price": 11083.66
+    },
+    {
+      "roomID": "290268",
+      "checkin": "2024-01-22",
+      "checkout": "2024-01-23",
+      "roomName": "Executive Suite",
+      "roomPlan": "EP",
+      "price": 9942.66
+    },
+    {
+      "roomID": "290268",
+      "checkin": "2024-01-22",
+      "checkout": "2024-01-23",
+      "roomName": "Executive Suite",
+      "roomPlan": "CP",
+      "price": 11083.66
+    },
+    {
+      "roomID": "290268",
+      "checkin": "2024-01-22",
+      "checkout": "2024-01-23",
+      "roomName": "Executive Suite",
+      "roomPlan": "MAP",
+      "price": 12033.66
+    },
+    {
+      "roomID": "290268",
+      "checkin": "2024-01-22",
+      "checkout": "2024-01-23",
+      "roomName": "Executive Suite",
+      "roomPlan": "AP",
+      "price": 12983.66
+    }
+  ]
+}
